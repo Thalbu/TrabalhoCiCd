@@ -4,7 +4,7 @@
   "description": "Trabalho CI CD",
   "main": "src/index.js",
   "scripts": {
-    "test": "NODE_ENV=test tap 'test/**/*.test.js' --bail --timeout=240 --color --reporter=base"
+    "test": "tap 'test/**/*.test.js' --bail --timeout=240 --color --reporter=base"
   },
   "author": "Tainan Albuquerque",
   "license": "ISC",
