@@ -1,0 +1,3509 @@
+TAP version 14
+# Subtest: digitoAleatorio: gera um digito aleatório entre 0 e 9
+    ok 1 - should be equal
+    ok 2 - should be equal
+    ok 3 - should be equal
+    ok 4 - should be equal
+    ok 5 - should be equal
+    ok 6 - should be equal
+    ok 7 - should be equal
+    ok 8 - should be equal
+    ok 9 - should be equal
+    ok 10 - should be equal
+    ok 11 - should be equal
+    ok 12 - should be equal
+    ok 13 - should be equal
+    ok 14 - should be equal
+    ok 15 - should be equal
+    ok 16 - should be equal
+    ok 17 - should be equal
+    ok 18 - should be equal
+    ok 19 - should be equal
+    ok 20 - should be equal
+    ok 21 - should be equal
+    ok 22 - should be equal
+    ok 23 - should be equal
+    ok 24 - should be equal
+    ok 25 - should be equal
+    ok 26 - should be equal
+    ok 27 - should be equal
+    ok 28 - should be equal
+    ok 29 - should be equal
+    ok 30 - should be equal
+    ok 31 - should be equal
+    ok 32 - should be equal
+    ok 33 - should be equal
+    ok 34 - should be equal
+    ok 35 - should be equal
+    ok 36 - should be equal
+    ok 37 - should be equal
+    ok 38 - should be equal
+    ok 39 - should be equal
+    ok 40 - should be equal
+    ok 41 - should be equal
+    ok 42 - should be equal
+    ok 43 - should be equal
+    ok 44 - should be equal
+    ok 45 - should be equal
+    ok 46 - should be equal
+    ok 47 - should be equal
+    ok 48 - should be equal
+    ok 49 - should be equal
+    ok 50 - should be equal
+    ok 51 - should be equal
+    ok 52 - should be equal
+    ok 53 - should be equal
+    ok 54 - should be equal
+    ok 55 - should be equal
+    ok 56 - should be equal
+    ok 57 - should be equal
+    ok 58 - should be equal
+    ok 59 - should be equal
+    ok 60 - should be equal
+    ok 61 - should be equal
+    ok 62 - should be equal
+    ok 63 - should be equal
+    ok 64 - should be equal
+    ok 65 - should be equal
+    ok 66 - should be equal
+    ok 67 - should be equal
+    ok 68 - should be equal
+    ok 69 - should be equal
+    ok 70 - should be equal
+    ok 71 - should be equal
+    ok 72 - should be equal
+    ok 73 - should be equal
+    ok 74 - should be equal
+    ok 75 - should be equal
+    ok 76 - should be equal
+    ok 77 - should be equal
+    ok 78 - should be equal
+    ok 79 - should be equal
+    ok 80 - should be equal
+    ok 81 - should be equal
+    ok 82 - should be equal
+    ok 83 - should be equal
+    ok 84 - should be equal
+    ok 85 - should be equal
+    ok 86 - should be equal
+    ok 87 - should be equal
+    ok 88 - should be equal
+    ok 89 - should be equal
+    ok 90 - should be equal
+    ok 91 - should be equal
+    ok 92 - should be equal
+    ok 93 - should be equal
+    ok 94 - should be equal
+    ok 95 - should be equal
+    ok 96 - should be equal
+    ok 97 - should be equal
+    ok 98 - should be equal
+    ok 99 - should be equal
+    ok 100 - should be equal
+    ok 101 - should be equal
+    ok 102 - should be equal
+    ok 103 - should be equal
+    ok 104 - should be equal
+    ok 105 - should be equal
+    ok 106 - should be equal
+    ok 107 - should be equal
+    ok 108 - should be equal
+    ok 109 - should be equal
+    ok 110 - should be equal
+    ok 111 - should be equal
+    ok 112 - should be equal
+    ok 113 - should be equal
+    ok 114 - should be equal
+    ok 115 - should be equal
+    ok 116 - should be equal
+    ok 117 - should be equal
+    ok 118 - should be equal
+    ok 119 - should be equal
+    ok 120 - should be equal
+    ok 121 - should be equal
+    ok 122 - should be equal
+    ok 123 - should be equal
+    ok 124 - should be equal
+    ok 125 - should be equal
+    ok 126 - should be equal
+    ok 127 - should be equal
+    ok 128 - should be equal
+    ok 129 - should be equal
+    ok 130 - should be equal
+    ok 131 - should be equal
+    ok 132 - should be equal
+    ok 133 - should be equal
+    ok 134 - should be equal
+    ok 135 - should be equal
+    ok 136 - should be equal
+    ok 137 - should be equal
+    ok 138 - should be equal
+    ok 139 - should be equal
+    ok 140 - should be equal
+    ok 141 - should be equal
+    ok 142 - should be equal
+    ok 143 - should be equal
+    ok 144 - should be equal
+    ok 145 - should be equal
+    ok 146 - should be equal
+    ok 147 - should be equal
+    ok 148 - should be equal
+    ok 149 - should be equal
+    ok 150 - should be equal
+    ok 151 - should be equal
+    ok 152 - should be equal
+    ok 153 - should be equal
+    ok 154 - should be equal
+    ok 155 - should be equal
+    ok 156 - should be equal
+    ok 157 - should be equal
+    ok 158 - should be equal
+    ok 159 - should be equal
+    ok 160 - should be equal
+    ok 161 - should be equal
+    ok 162 - should be equal
+    ok 163 - should be equal
+    ok 164 - should be equal
+    ok 165 - should be equal
+    ok 166 - should be equal
+    ok 167 - should be equal
+    ok 168 - should be equal
+    ok 169 - should be equal
+    ok 170 - should be equal
+    ok 171 - should be equal
+    ok 172 - should be equal
+    ok 173 - should be equal
+    ok 174 - should be equal
+    ok 175 - should be equal
+    ok 176 - should be equal
+    ok 177 - should be equal
+    ok 178 - should be equal
+    ok 179 - should be equal
+    ok 180 - should be equal
+    ok 181 - should be equal
+    ok 182 - should be equal
+    ok 183 - should be equal
+    ok 184 - should be equal
+    ok 185 - should be equal
+    ok 186 - should be equal
+    ok 187 - should be equal
+    ok 188 - should be equal
+    ok 189 - should be equal
+    ok 190 - should be equal
+    ok 191 - should be equal
+    ok 192 - should be equal
+    ok 193 - should be equal
+    ok 194 - should be equal
+    ok 195 - should be equal
+    ok 196 - should be equal
+    ok 197 - should be equal
+    ok 198 - should be equal
+    ok 199 - should be equal
+    ok 200 - should be equal
+    ok 201 - should be equal
+    ok 202 - should be equal
+    ok 203 - should be equal
+    ok 204 - should be equal
+    ok 205 - should be equal
+    ok 206 - should be equal
+    ok 207 - should be equal
+    ok 208 - should be equal
+    ok 209 - should be equal
+    ok 210 - should be equal
+    ok 211 - should be equal
+    ok 212 - should be equal
+    ok 213 - should be equal
+    ok 214 - should be equal
+    ok 215 - should be equal
+    ok 216 - should be equal
+    ok 217 - should be equal
+    ok 218 - should be equal
+    ok 219 - should be equal
+    ok 220 - should be equal
+    ok 221 - should be equal
+    ok 222 - should be equal
+    ok 223 - should be equal
+    ok 224 - should be equal
+    ok 225 - should be equal
+    ok 226 - should be equal
+    ok 227 - should be equal
+    ok 228 - should be equal
+    ok 229 - should be equal
+    ok 230 - should be equal
+    ok 231 - should be equal
+    ok 232 - should be equal
+    ok 233 - should be equal
+    ok 234 - should be equal
+    ok 235 - should be equal
+    ok 236 - should be equal
+    ok 237 - should be equal
+    ok 238 - should be equal
+    ok 239 - should be equal
+    ok 240 - should be equal
+    ok 241 - should be equal
+    ok 242 - should be equal
+    ok 243 - should be equal
+    ok 244 - should be equal
+    ok 245 - should be equal
+    ok 246 - should be equal
+    ok 247 - should be equal
+    ok 248 - should be equal
+    ok 249 - should be equal
+    ok 250 - should be equal
+    ok 251 - should be equal
+    ok 252 - should be equal
+    ok 253 - should be equal
+    ok 254 - should be equal
+    ok 255 - should be equal
+    ok 256 - should be equal
+    ok 257 - should be equal
+    ok 258 - should be equal
+    ok 259 - should be equal
+    ok 260 - should be equal
+    ok 261 - should be equal
+    ok 262 - should be equal
+    ok 263 - should be equal
+    ok 264 - should be equal
+    ok 265 - should be equal
+    ok 266 - should be equal
+    ok 267 - should be equal
+    ok 268 - should be equal
+    ok 269 - should be equal
+    ok 270 - should be equal
+    ok 271 - should be equal
+    ok 272 - should be equal
+    ok 273 - should be equal
+    ok 274 - should be equal
+    ok 275 - should be equal
+    ok 276 - should be equal
+    ok 277 - should be equal
+    ok 278 - should be equal
+    ok 279 - should be equal
+    ok 280 - should be equal
+    ok 281 - should be equal
+    ok 282 - should be equal
+    ok 283 - should be equal
+    ok 284 - should be equal
+    ok 285 - should be equal
+    ok 286 - should be equal
+    ok 287 - should be equal
+    ok 288 - should be equal
+    ok 289 - should be equal
+    ok 290 - should be equal
+    ok 291 - should be equal
+    ok 292 - should be equal
+    ok 293 - should be equal
+    ok 294 - should be equal
+    ok 295 - should be equal
+    ok 296 - should be equal
+    ok 297 - should be equal
+    ok 298 - should be equal
+    ok 299 - should be equal
+    ok 300 - should be equal
+    ok 301 - should be equal
+    ok 302 - should be equal
+    ok 303 - should be equal
+    ok 304 - should be equal
+    ok 305 - should be equal
+    ok 306 - should be equal
+    ok 307 - should be equal
+    ok 308 - should be equal
+    ok 309 - should be equal
+    ok 310 - should be equal
+    ok 311 - should be equal
+    ok 312 - should be equal
+    ok 313 - should be equal
+    ok 314 - should be equal
+    ok 315 - should be equal
+    ok 316 - should be equal
+    ok 317 - should be equal
+    ok 318 - should be equal
+    ok 319 - should be equal
+    ok 320 - should be equal
+    ok 321 - should be equal
+    ok 322 - should be equal
+    ok 323 - should be equal
+    ok 324 - should be equal
+    ok 325 - should be equal
+    ok 326 - should be equal
+    ok 327 - should be equal
+    ok 328 - should be equal
+    ok 329 - should be equal
+    ok 330 - should be equal
+    ok 331 - should be equal
+    ok 332 - should be equal
+    ok 333 - should be equal
+    ok 334 - should be equal
+    ok 335 - should be equal
+    ok 336 - should be equal
+    ok 337 - should be equal
+    ok 338 - should be equal
+    ok 339 - should be equal
+    ok 340 - should be equal
+    ok 341 - should be equal
+    ok 342 - should be equal
+    ok 343 - should be equal
+    ok 344 - should be equal
+    ok 345 - should be equal
+    ok 346 - should be equal
+    ok 347 - should be equal
+    ok 348 - should be equal
+    ok 349 - should be equal
+    ok 350 - should be equal
+    ok 351 - should be equal
+    ok 352 - should be equal
+    ok 353 - should be equal
+    ok 354 - should be equal
+    ok 355 - should be equal
+    ok 356 - should be equal
+    ok 357 - should be equal
+    ok 358 - should be equal
+    ok 359 - should be equal
+    ok 360 - should be equal
+    ok 361 - should be equal
+    ok 362 - should be equal
+    ok 363 - should be equal
+    ok 364 - should be equal
+    ok 365 - should be equal
+    ok 366 - should be equal
+    ok 367 - should be equal
+    ok 368 - should be equal
+    ok 369 - should be equal
+    ok 370 - should be equal
+    ok 371 - should be equal
+    ok 372 - should be equal
+    ok 373 - should be equal
+    ok 374 - should be equal
+    ok 375 - should be equal
+    ok 376 - should be equal
+    ok 377 - should be equal
+    ok 378 - should be equal
+    ok 379 - should be equal
+    ok 380 - should be equal
+    ok 381 - should be equal
+    ok 382 - should be equal
+    ok 383 - should be equal
+    ok 384 - should be equal
+    ok 385 - should be equal
+    ok 386 - should be equal
+    ok 387 - should be equal
+    ok 388 - should be equal
+    ok 389 - should be equal
+    ok 390 - should be equal
+    ok 391 - should be equal
+    ok 392 - should be equal
+    ok 393 - should be equal
+    ok 394 - should be equal
+    ok 395 - should be equal
+    ok 396 - should be equal
+    ok 397 - should be equal
+    ok 398 - should be equal
+    ok 399 - should be equal
+    ok 400 - should be equal
+    ok 401 - should be equal
+    ok 402 - should be equal
+    ok 403 - should be equal
+    ok 404 - should be equal
+    ok 405 - should be equal
+    ok 406 - should be equal
+    ok 407 - should be equal
+    ok 408 - should be equal
+    ok 409 - should be equal
+    ok 410 - should be equal
+    ok 411 - should be equal
+    ok 412 - should be equal
+    ok 413 - should be equal
+    ok 414 - should be equal
+    ok 415 - should be equal
+    ok 416 - should be equal
+    ok 417 - should be equal
+    ok 418 - should be equal
+    ok 419 - should be equal
+    ok 420 - should be equal
+    ok 421 - should be equal
+    ok 422 - should be equal
+    ok 423 - should be equal
+    ok 424 - should be equal
+    ok 425 - should be equal
+    ok 426 - should be equal
+    ok 427 - should be equal
+    ok 428 - should be equal
+    ok 429 - should be equal
+    ok 430 - should be equal
+    ok 431 - should be equal
+    ok 432 - should be equal
+    ok 433 - should be equal
+    ok 434 - should be equal
+    ok 435 - should be equal
+    ok 436 - should be equal
+    ok 437 - should be equal
+    ok 438 - should be equal
+    ok 439 - should be equal
+    ok 440 - should be equal
+    ok 441 - should be equal
+    ok 442 - should be equal
+    ok 443 - should be equal
+    ok 444 - should be equal
+    ok 445 - should be equal
+    ok 446 - should be equal
+    ok 447 - should be equal
+    ok 448 - should be equal
+    ok 449 - should be equal
+    ok 450 - should be equal
+    ok 451 - should be equal
+    ok 452 - should be equal
+    ok 453 - should be equal
+    ok 454 - should be equal
+    ok 455 - should be equal
+    ok 456 - should be equal
+    ok 457 - should be equal
+    ok 458 - should be equal
+    ok 459 - should be equal
+    ok 460 - should be equal
+    ok 461 - should be equal
+    ok 462 - should be equal
+    ok 463 - should be equal
+    ok 464 - should be equal
+    ok 465 - should be equal
+    ok 466 - should be equal
+    ok 467 - should be equal
+    ok 468 - should be equal
+    ok 469 - should be equal
+    ok 470 - should be equal
+    ok 471 - should be equal
+    ok 472 - should be equal
+    ok 473 - should be equal
+    ok 474 - should be equal
+    ok 475 - should be equal
+    ok 476 - should be equal
+    ok 477 - should be equal
+    ok 478 - should be equal
+    ok 479 - should be equal
+    ok 480 - should be equal
+    ok 481 - should be equal
+    ok 482 - should be equal
+    ok 483 - should be equal
+    ok 484 - should be equal
+    ok 485 - should be equal
+    ok 486 - should be equal
+    ok 487 - should be equal
+    ok 488 - should be equal
+    ok 489 - should be equal
+    ok 490 - should be equal
+    ok 491 - should be equal
+    ok 492 - should be equal
+    ok 493 - should be equal
+    ok 494 - should be equal
+    ok 495 - should be equal
+    ok 496 - should be equal
+    ok 497 - should be equal
+    ok 498 - should be equal
+    ok 499 - should be equal
+    ok 500 - should be equal
+    ok 501 - should be equal
+    ok 502 - should be equal
+    ok 503 - should be equal
+    ok 504 - should be equal
+    ok 505 - should be equal
+    ok 506 - should be equal
+    ok 507 - should be equal
+    ok 508 - should be equal
+    ok 509 - should be equal
+    ok 510 - should be equal
+    ok 511 - should be equal
+    ok 512 - should be equal
+    ok 513 - should be equal
+    ok 514 - should be equal
+    ok 515 - should be equal
+    ok 516 - should be equal
+    ok 517 - should be equal
+    ok 518 - should be equal
+    ok 519 - should be equal
+    ok 520 - should be equal
+    ok 521 - should be equal
+    ok 522 - should be equal
+    ok 523 - should be equal
+    ok 524 - should be equal
+    ok 525 - should be equal
+    ok 526 - should be equal
+    ok 527 - should be equal
+    ok 528 - should be equal
+    ok 529 - should be equal
+    ok 530 - should be equal
+    ok 531 - should be equal
+    ok 532 - should be equal
+    ok 533 - should be equal
+    ok 534 - should be equal
+    ok 535 - should be equal
+    ok 536 - should be equal
+    ok 537 - should be equal
+    ok 538 - should be equal
+    ok 539 - should be equal
+    ok 540 - should be equal
+    ok 541 - should be equal
+    ok 542 - should be equal
+    ok 543 - should be equal
+    ok 544 - should be equal
+    ok 545 - should be equal
+    ok 546 - should be equal
+    ok 547 - should be equal
+    ok 548 - should be equal
+    ok 549 - should be equal
+    ok 550 - should be equal
+    ok 551 - should be equal
+    ok 552 - should be equal
+    ok 553 - should be equal
+    ok 554 - should be equal
+    ok 555 - should be equal
+    ok 556 - should be equal
+    ok 557 - should be equal
+    ok 558 - should be equal
+    ok 559 - should be equal
+    ok 560 - should be equal
+    ok 561 - should be equal
+    ok 562 - should be equal
+    ok 563 - should be equal
+    ok 564 - should be equal
+    ok 565 - should be equal
+    ok 566 - should be equal
+    ok 567 - should be equal
+    ok 568 - should be equal
+    ok 569 - should be equal
+    ok 570 - should be equal
+    ok 571 - should be equal
+    ok 572 - should be equal
+    ok 573 - should be equal
+    ok 574 - should be equal
+    ok 575 - should be equal
+    ok 576 - should be equal
+    ok 577 - should be equal
+    ok 578 - should be equal
+    ok 579 - should be equal
+    ok 580 - should be equal
+    ok 581 - should be equal
+    ok 582 - should be equal
+    ok 583 - should be equal
+    ok 584 - should be equal
+    ok 585 - should be equal
+    ok 586 - should be equal
+    ok 587 - should be equal
+    ok 588 - should be equal
+    ok 589 - should be equal
+    ok 590 - should be equal
+    ok 591 - should be equal
+    ok 592 - should be equal
+    ok 593 - should be equal
+    ok 594 - should be equal
+    ok 595 - should be equal
+    ok 596 - should be equal
+    ok 597 - should be equal
+    ok 598 - should be equal
+    ok 599 - should be equal
+    ok 600 - should be equal
+    ok 601 - should be equal
+    ok 602 - should be equal
+    ok 603 - should be equal
+    ok 604 - should be equal
+    ok 605 - should be equal
+    ok 606 - should be equal
+    ok 607 - should be equal
+    ok 608 - should be equal
+    ok 609 - should be equal
+    ok 610 - should be equal
+    ok 611 - should be equal
+    ok 612 - should be equal
+    ok 613 - should be equal
+    ok 614 - should be equal
+    ok 615 - should be equal
+    ok 616 - should be equal
+    ok 617 - should be equal
+    ok 618 - should be equal
+    ok 619 - should be equal
+    ok 620 - should be equal
+    ok 621 - should be equal
+    ok 622 - should be equal
+    ok 623 - should be equal
+    ok 624 - should be equal
+    ok 625 - should be equal
+    ok 626 - should be equal
+    ok 627 - should be equal
+    ok 628 - should be equal
+    ok 629 - should be equal
+    ok 630 - should be equal
+    ok 631 - should be equal
+    ok 632 - should be equal
+    ok 633 - should be equal
+    ok 634 - should be equal
+    ok 635 - should be equal
+    ok 636 - should be equal
+    ok 637 - should be equal
+    ok 638 - should be equal
+    ok 639 - should be equal
+    ok 640 - should be equal
+    ok 641 - should be equal
+    ok 642 - should be equal
+    ok 643 - should be equal
+    ok 644 - should be equal
+    ok 645 - should be equal
+    ok 646 - should be equal
+    ok 647 - should be equal
+    ok 648 - should be equal
+    ok 649 - should be equal
+    ok 650 - should be equal
+    ok 651 - should be equal
+    ok 652 - should be equal
+    ok 653 - should be equal
+    ok 654 - should be equal
+    ok 655 - should be equal
+    ok 656 - should be equal
+    ok 657 - should be equal
+    ok 658 - should be equal
+    ok 659 - should be equal
+    ok 660 - should be equal
+    ok 661 - should be equal
+    ok 662 - should be equal
+    ok 663 - should be equal
+    ok 664 - should be equal
+    ok 665 - should be equal
+    ok 666 - should be equal
+    ok 667 - should be equal
+    ok 668 - should be equal
+    ok 669 - should be equal
+    ok 670 - should be equal
+    ok 671 - should be equal
+    ok 672 - should be equal
+    ok 673 - should be equal
+    ok 674 - should be equal
+    ok 675 - should be equal
+    ok 676 - should be equal
+    ok 677 - should be equal
+    ok 678 - should be equal
+    ok 679 - should be equal
+    ok 680 - should be equal
+    ok 681 - should be equal
+    ok 682 - should be equal
+    ok 683 - should be equal
+    ok 684 - should be equal
+    ok 685 - should be equal
+    ok 686 - should be equal
+    ok 687 - should be equal
+    ok 688 - should be equal
+    ok 689 - should be equal
+    ok 690 - should be equal
+    ok 691 - should be equal
+    ok 692 - should be equal
+    ok 693 - should be equal
+    ok 694 - should be equal
+    ok 695 - should be equal
+    ok 696 - should be equal
+    ok 697 - should be equal
+    ok 698 - should be equal
+    ok 699 - should be equal
+    ok 700 - should be equal
+    ok 701 - should be equal
+    ok 702 - should be equal
+    ok 703 - should be equal
+    ok 704 - should be equal
+    ok 705 - should be equal
+    ok 706 - should be equal
+    ok 707 - should be equal
+    ok 708 - should be equal
+    ok 709 - should be equal
+    ok 710 - should be equal
+    ok 711 - should be equal
+    ok 712 - should be equal
+    ok 713 - should be equal
+    ok 714 - should be equal
+    ok 715 - should be equal
+    ok 716 - should be equal
+    ok 717 - should be equal
+    ok 718 - should be equal
+    ok 719 - should be equal
+    ok 720 - should be equal
+    ok 721 - should be equal
+    ok 722 - should be equal
+    ok 723 - should be equal
+    ok 724 - should be equal
+    ok 725 - should be equal
+    ok 726 - should be equal
+    ok 727 - should be equal
+    ok 728 - should be equal
+    ok 729 - should be equal
+    ok 730 - should be equal
+    ok 731 - should be equal
+    ok 732 - should be equal
+    ok 733 - should be equal
+    ok 734 - should be equal
+    ok 735 - should be equal
+    ok 736 - should be equal
+    ok 737 - should be equal
+    ok 738 - should be equal
+    ok 739 - should be equal
+    ok 740 - should be equal
+    ok 741 - should be equal
+    ok 742 - should be equal
+    ok 743 - should be equal
+    ok 744 - should be equal
+    ok 745 - should be equal
+    ok 746 - should be equal
+    ok 747 - should be equal
+    ok 748 - should be equal
+    ok 749 - should be equal
+    ok 750 - should be equal
+    ok 751 - should be equal
+    ok 752 - should be equal
+    ok 753 - should be equal
+    ok 754 - should be equal
+    ok 755 - should be equal
+    ok 756 - should be equal
+    ok 757 - should be equal
+    ok 758 - should be equal
+    ok 759 - should be equal
+    ok 760 - should be equal
+    ok 761 - should be equal
+    ok 762 - should be equal
+    ok 763 - should be equal
+    ok 764 - should be equal
+    ok 765 - should be equal
+    ok 766 - should be equal
+    ok 767 - should be equal
+    ok 768 - should be equal
+    ok 769 - should be equal
+    ok 770 - should be equal
+    ok 771 - should be equal
+    ok 772 - should be equal
+    ok 773 - should be equal
+    ok 774 - should be equal
+    ok 775 - should be equal
+    ok 776 - should be equal
+    ok 777 - should be equal
+    ok 778 - should be equal
+    ok 779 - should be equal
+    ok 780 - should be equal
+    ok 781 - should be equal
+    ok 782 - should be equal
+    ok 783 - should be equal
+    ok 784 - should be equal
+    ok 785 - should be equal
+    ok 786 - should be equal
+    ok 787 - should be equal
+    ok 788 - should be equal
+    ok 789 - should be equal
+    ok 790 - should be equal
+    ok 791 - should be equal
+    ok 792 - should be equal
+    ok 793 - should be equal
+    ok 794 - should be equal
+    ok 795 - should be equal
+    ok 796 - should be equal
+    ok 797 - should be equal
+    ok 798 - should be equal
+    ok 799 - should be equal
+    ok 800 - should be equal
+    ok 801 - should be equal
+    ok 802 - should be equal
+    ok 803 - should be equal
+    ok 804 - should be equal
+    ok 805 - should be equal
+    ok 806 - should be equal
+    ok 807 - should be equal
+    ok 808 - should be equal
+    ok 809 - should be equal
+    ok 810 - should be equal
+    ok 811 - should be equal
+    ok 812 - should be equal
+    ok 813 - should be equal
+    ok 814 - should be equal
+    ok 815 - should be equal
+    ok 816 - should be equal
+    ok 817 - should be equal
+    ok 818 - should be equal
+    ok 819 - should be equal
+    ok 820 - should be equal
+    ok 821 - should be equal
+    ok 822 - should be equal
+    ok 823 - should be equal
+    ok 824 - should be equal
+    ok 825 - should be equal
+    ok 826 - should be equal
+    ok 827 - should be equal
+    ok 828 - should be equal
+    ok 829 - should be equal
+    ok 830 - should be equal
+    ok 831 - should be equal
+    ok 832 - should be equal
+    ok 833 - should be equal
+    ok 834 - should be equal
+    ok 835 - should be equal
+    ok 836 - should be equal
+    ok 837 - should be equal
+    ok 838 - should be equal
+    ok 839 - should be equal
+    ok 840 - should be equal
+    ok 841 - should be equal
+    ok 842 - should be equal
+    ok 843 - should be equal
+    ok 844 - should be equal
+    ok 845 - should be equal
+    ok 846 - should be equal
+    ok 847 - should be equal
+    ok 848 - should be equal
+    ok 849 - should be equal
+    ok 850 - should be equal
+    ok 851 - should be equal
+    ok 852 - should be equal
+    ok 853 - should be equal
+    ok 854 - should be equal
+    ok 855 - should be equal
+    ok 856 - should be equal
+    ok 857 - should be equal
+    ok 858 - should be equal
+    ok 859 - should be equal
+    ok 860 - should be equal
+    ok 861 - should be equal
+    ok 862 - should be equal
+    ok 863 - should be equal
+    ok 864 - should be equal
+    ok 865 - should be equal
+    ok 866 - should be equal
+    ok 867 - should be equal
+    ok 868 - should be equal
+    ok 869 - should be equal
+    ok 870 - should be equal
+    ok 871 - should be equal
+    ok 872 - should be equal
+    ok 873 - should be equal
+    ok 874 - should be equal
+    ok 875 - should be equal
+    ok 876 - should be equal
+    ok 877 - should be equal
+    ok 878 - should be equal
+    ok 879 - should be equal
+    ok 880 - should be equal
+    ok 881 - should be equal
+    ok 882 - should be equal
+    ok 883 - should be equal
+    ok 884 - should be equal
+    ok 885 - should be equal
+    ok 886 - should be equal
+    ok 887 - should be equal
+    ok 888 - should be equal
+    ok 889 - should be equal
+    ok 890 - should be equal
+    ok 891 - should be equal
+    ok 892 - should be equal
+    ok 893 - should be equal
+    ok 894 - should be equal
+    ok 895 - should be equal
+    ok 896 - should be equal
+    ok 897 - should be equal
+    ok 898 - should be equal
+    ok 899 - should be equal
+    ok 900 - should be equal
+    ok 901 - should be equal
+    ok 902 - should be equal
+    ok 903 - should be equal
+    ok 904 - should be equal
+    ok 905 - should be equal
+    ok 906 - should be equal
+    ok 907 - should be equal
+    ok 908 - should be equal
+    ok 909 - should be equal
+    ok 910 - should be equal
+    ok 911 - should be equal
+    ok 912 - should be equal
+    ok 913 - should be equal
+    ok 914 - should be equal
+    ok 915 - should be equal
+    ok 916 - should be equal
+    ok 917 - should be equal
+    ok 918 - should be equal
+    ok 919 - should be equal
+    ok 920 - should be equal
+    ok 921 - should be equal
+    ok 922 - should be equal
+    ok 923 - should be equal
+    ok 924 - should be equal
+    ok 925 - should be equal
+    ok 926 - should be equal
+    ok 927 - should be equal
+    ok 928 - should be equal
+    ok 929 - should be equal
+    ok 930 - should be equal
+    ok 931 - should be equal
+    ok 932 - should be equal
+    ok 933 - should be equal
+    ok 934 - should be equal
+    ok 935 - should be equal
+    ok 936 - should be equal
+    ok 937 - should be equal
+    ok 938 - should be equal
+    ok 939 - should be equal
+    ok 940 - should be equal
+    ok 941 - should be equal
+    ok 942 - should be equal
+    ok 943 - should be equal
+    ok 944 - should be equal
+    ok 945 - should be equal
+    ok 946 - should be equal
+    ok 947 - should be equal
+    ok 948 - should be equal
+    ok 949 - should be equal
+    ok 950 - should be equal
+    ok 951 - should be equal
+    ok 952 - should be equal
+    ok 953 - should be equal
+    ok 954 - should be equal
+    ok 955 - should be equal
+    ok 956 - should be equal
+    ok 957 - should be equal
+    ok 958 - should be equal
+    ok 959 - should be equal
+    ok 960 - should be equal
+    ok 961 - should be equal
+    ok 962 - should be equal
+    ok 963 - should be equal
+    ok 964 - should be equal
+    ok 965 - should be equal
+    ok 966 - should be equal
+    ok 967 - should be equal
+    ok 968 - should be equal
+    ok 969 - should be equal
+    ok 970 - should be equal
+    ok 971 - should be equal
+    ok 972 - should be equal
+    ok 973 - should be equal
+    ok 974 - should be equal
+    ok 975 - should be equal
+    ok 976 - should be equal
+    ok 977 - should be equal
+    ok 978 - should be equal
+    ok 979 - should be equal
+    ok 980 - should be equal
+    ok 981 - should be equal
+    ok 982 - should be equal
+    ok 983 - should be equal
+    ok 984 - should be equal
+    ok 985 - should be equal
+    ok 986 - should be equal
+    ok 987 - should be equal
+    ok 988 - should be equal
+    ok 989 - should be equal
+    ok 990 - should be equal
+    ok 991 - should be equal
+    ok 992 - should be equal
+    ok 993 - should be equal
+    ok 994 - should be equal
+    ok 995 - should be equal
+    ok 996 - should be equal
+    ok 997 - should be equal
+    ok 998 - should be equal
+    ok 999 - should be equal
+    ok 1000 - should be equal
+    1..1000
+ok 1 - digitoAleatorio: gera um digito aleatório entre 0 e 9 # time=178.303ms
+
+# Subtest: getRandomNumber: funcao getRandomNumber com size
+    ok 1 - should be equal
+    ok 2 - should be equal
+    ok 3 - should be equal
+    ok 4 - should be equal
+    ok 5 - should be equal
+    ok 6 - should be equal
+    ok 7 - should be equal
+    ok 8 - should be equal
+    ok 9 - should be equal
+    ok 10 - should be equal
+    ok 11 - should be equal
+    ok 12 - should be equal
+    ok 13 - should be equal
+    ok 14 - should be equal
+    ok 15 - should be equal
+    ok 16 - should be equal
+    ok 17 - should be equal
+    ok 18 - should be equal
+    ok 19 - should be equal
+    ok 20 - should be equal
+    ok 21 - should be equal
+    ok 22 - should be equal
+    ok 23 - should be equal
+    ok 24 - should be equal
+    ok 25 - should be equal
+    ok 26 - should be equal
+    ok 27 - should be equal
+    ok 28 - should be equal
+    ok 29 - should be equal
+    ok 30 - should be equal
+    ok 31 - should be equal
+    ok 32 - should be equal
+    ok 33 - should be equal
+    ok 34 - should be equal
+    ok 35 - should be equal
+    ok 36 - should be equal
+    ok 37 - should be equal
+    ok 38 - should be equal
+    ok 39 - should be equal
+    ok 40 - should be equal
+    ok 41 - should be equal
+    ok 42 - should be equal
+    ok 43 - should be equal
+    ok 44 - should be equal
+    ok 45 - should be equal
+    ok 46 - should be equal
+    ok 47 - should be equal
+    ok 48 - should be equal
+    ok 49 - should be equal
+    ok 50 - should be equal
+    1..50
+ok 2 - getRandomNumber: funcao getRandomNumber com size # time=9.155ms
+
+# Subtest: getRandomNumber: testa função getRandomNumber com min e max
+    ok 1 - should be equal
+    ok 2 - should be equal
+    ok 3 - should be equal
+    ok 4 - should be equal
+    ok 5 - should be equal
+    ok 6 - should be equal
+    ok 7 - should be equal
+    ok 8 - should be equal
+    ok 9 - should be equal
+    ok 10 - should be equal
+    ok 11 - should be equal
+    ok 12 - should be equal
+    ok 13 - should be equal
+    ok 14 - should be equal
+    ok 15 - should be equal
+    ok 16 - should be equal
+    ok 17 - should be equal
+    ok 18 - should be equal
+    ok 19 - should be equal
+    ok 20 - should be equal
+    ok 21 - should be equal
+    ok 22 - should be equal
+    ok 23 - should be equal
+    ok 24 - should be equal
+    ok 25 - should be equal
+    ok 26 - should be equal
+    ok 27 - should be equal
+    ok 28 - should be equal
+    ok 29 - should be equal
+    ok 30 - should be equal
+    ok 31 - should be equal
+    ok 32 - should be equal
+    ok 33 - should be equal
+    ok 34 - should be equal
+    ok 35 - should be equal
+    ok 36 - should be equal
+    ok 37 - should be equal
+    ok 38 - should be equal
+    ok 39 - should be equal
+    ok 40 - should be equal
+    ok 41 - should be equal
+    ok 42 - should be equal
+    ok 43 - should be equal
+    ok 44 - should be equal
+    ok 45 - should be equal
+    ok 46 - should be equal
+    ok 47 - should be equal
+    ok 48 - should be equal
+    ok 49 - should be equal
+    ok 50 - should be equal
+    ok 51 - should be equal
+    ok 52 - should be equal
+    ok 53 - should be equal
+    ok 54 - should be equal
+    ok 55 - should be equal
+    ok 56 - should be equal
+    ok 57 - should be equal
+    ok 58 - should be equal
+    ok 59 - should be equal
+    ok 60 - should be equal
+    ok 61 - should be equal
+    ok 62 - should be equal
+    ok 63 - should be equal
+    ok 64 - should be equal
+    ok 65 - should be equal
+    ok 66 - should be equal
+    ok 67 - should be equal
+    ok 68 - should be equal
+    ok 69 - should be equal
+    ok 70 - should be equal
+    ok 71 - should be equal
+    ok 72 - should be equal
+    ok 73 - should be equal
+    ok 74 - should be equal
+    ok 75 - should be equal
+    ok 76 - should be equal
+    ok 77 - should be equal
+    ok 78 - should be equal
+    ok 79 - should be equal
+    ok 80 - should be equal
+    ok 81 - should be equal
+    ok 82 - should be equal
+    ok 83 - should be equal
+    ok 84 - should be equal
+    ok 85 - should be equal
+    ok 86 - should be equal
+    ok 87 - should be equal
+    ok 88 - should be equal
+    ok 89 - should be equal
+    ok 90 - should be equal
+    ok 91 - should be equal
+    ok 92 - should be equal
+    ok 93 - should be equal
+    ok 94 - should be equal
+    ok 95 - should be equal
+    ok 96 - should be equal
+    ok 97 - should be equal
+    ok 98 - should be equal
+    ok 99 - should be equal
+    ok 100 - should be equal
+    ok 101 - should be equal
+    ok 102 - should be equal
+    ok 103 - should be equal
+    ok 104 - should be equal
+    ok 105 - should be equal
+    ok 106 - should be equal
+    ok 107 - should be equal
+    ok 108 - should be equal
+    ok 109 - should be equal
+    ok 110 - should be equal
+    ok 111 - should be equal
+    ok 112 - should be equal
+    ok 113 - should be equal
+    ok 114 - should be equal
+    ok 115 - should be equal
+    ok 116 - should be equal
+    ok 117 - should be equal
+    ok 118 - should be equal
+    ok 119 - should be equal
+    ok 120 - should be equal
+    ok 121 - should be equal
+    ok 122 - should be equal
+    ok 123 - should be equal
+    ok 124 - should be equal
+    ok 125 - should be equal
+    ok 126 - should be equal
+    ok 127 - should be equal
+    ok 128 - should be equal
+    ok 129 - should be equal
+    ok 130 - should be equal
+    ok 131 - should be equal
+    ok 132 - should be equal
+    ok 133 - should be equal
+    ok 134 - should be equal
+    ok 135 - should be equal
+    ok 136 - should be equal
+    ok 137 - should be equal
+    ok 138 - should be equal
+    ok 139 - should be equal
+    ok 140 - should be equal
+    ok 141 - should be equal
+    ok 142 - should be equal
+    ok 143 - should be equal
+    ok 144 - should be equal
+    ok 145 - should be equal
+    ok 146 - should be equal
+    ok 147 - should be equal
+    ok 148 - should be equal
+    ok 149 - should be equal
+    ok 150 - should be equal
+    ok 151 - should be equal
+    ok 152 - should be equal
+    ok 153 - should be equal
+    ok 154 - should be equal
+    ok 155 - should be equal
+    ok 156 - should be equal
+    ok 157 - should be equal
+    ok 158 - should be equal
+    ok 159 - should be equal
+    ok 160 - should be equal
+    ok 161 - should be equal
+    ok 162 - should be equal
+    ok 163 - should be equal
+    ok 164 - should be equal
+    ok 165 - should be equal
+    ok 166 - should be equal
+    ok 167 - should be equal
+    ok 168 - should be equal
+    ok 169 - should be equal
+    ok 170 - should be equal
+    ok 171 - should be equal
+    ok 172 - should be equal
+    ok 173 - should be equal
+    ok 174 - should be equal
+    ok 175 - should be equal
+    ok 176 - should be equal
+    ok 177 - should be equal
+    ok 178 - should be equal
+    ok 179 - should be equal
+    ok 180 - should be equal
+    ok 181 - should be equal
+    ok 182 - should be equal
+    ok 183 - should be equal
+    ok 184 - should be equal
+    ok 185 - should be equal
+    ok 186 - should be equal
+    ok 187 - should be equal
+    ok 188 - should be equal
+    ok 189 - should be equal
+    ok 190 - should be equal
+    ok 191 - should be equal
+    ok 192 - should be equal
+    ok 193 - should be equal
+    ok 194 - should be equal
+    ok 195 - should be equal
+    ok 196 - should be equal
+    ok 197 - should be equal
+    ok 198 - should be equal
+    ok 199 - should be equal
+    ok 200 - should be equal
+    ok 201 - should be equal
+    ok 202 - should be equal
+    ok 203 - should be equal
+    ok 204 - should be equal
+    ok 205 - should be equal
+    ok 206 - should be equal
+    ok 207 - should be equal
+    ok 208 - should be equal
+    ok 209 - should be equal
+    ok 210 - should be equal
+    ok 211 - should be equal
+    ok 212 - should be equal
+    ok 213 - should be equal
+    ok 214 - should be equal
+    ok 215 - should be equal
+    ok 216 - should be equal
+    ok 217 - should be equal
+    ok 218 - should be equal
+    ok 219 - should be equal
+    ok 220 - should be equal
+    ok 221 - should be equal
+    ok 222 - should be equal
+    ok 223 - should be equal
+    ok 224 - should be equal
+    ok 225 - should be equal
+    ok 226 - should be equal
+    ok 227 - should be equal
+    ok 228 - should be equal
+    ok 229 - should be equal
+    ok 230 - should be equal
+    ok 231 - should be equal
+    ok 232 - should be equal
+    ok 233 - should be equal
+    ok 234 - should be equal
+    ok 235 - should be equal
+    ok 236 - should be equal
+    ok 237 - should be equal
+    ok 238 - should be equal
+    ok 239 - should be equal
+    ok 240 - should be equal
+    ok 241 - should be equal
+    ok 242 - should be equal
+    ok 243 - should be equal
+    ok 244 - should be equal
+    ok 245 - should be equal
+    ok 246 - should be equal
+    ok 247 - should be equal
+    ok 248 - should be equal
+    ok 249 - should be equal
+    ok 250 - should be equal
+    ok 251 - should be equal
+    ok 252 - should be equal
+    ok 253 - should be equal
+    ok 254 - should be equal
+    ok 255 - should be equal
+    ok 256 - should be equal
+    ok 257 - should be equal
+    ok 258 - should be equal
+    ok 259 - should be equal
+    ok 260 - should be equal
+    ok 261 - should be equal
+    ok 262 - should be equal
+    ok 263 - should be equal
+    ok 264 - should be equal
+    ok 265 - should be equal
+    ok 266 - should be equal
+    ok 267 - should be equal
+    ok 268 - should be equal
+    ok 269 - should be equal
+    ok 270 - should be equal
+    ok 271 - should be equal
+    ok 272 - should be equal
+    ok 273 - should be equal
+    ok 274 - should be equal
+    ok 275 - should be equal
+    ok 276 - should be equal
+    ok 277 - should be equal
+    ok 278 - should be equal
+    ok 279 - should be equal
+    ok 280 - should be equal
+    ok 281 - should be equal
+    ok 282 - should be equal
+    ok 283 - should be equal
+    ok 284 - should be equal
+    ok 285 - should be equal
+    ok 286 - should be equal
+    ok 287 - should be equal
+    ok 288 - should be equal
+    ok 289 - should be equal
+    ok 290 - should be equal
+    ok 291 - should be equal
+    ok 292 - should be equal
+    ok 293 - should be equal
+    ok 294 - should be equal
+    ok 295 - should be equal
+    ok 296 - should be equal
+    ok 297 - should be equal
+    ok 298 - should be equal
+    ok 299 - should be equal
+    ok 300 - should be equal
+    ok 301 - should be equal
+    ok 302 - should be equal
+    ok 303 - should be equal
+    ok 304 - should be equal
+    ok 305 - should be equal
+    ok 306 - should be equal
+    ok 307 - should be equal
+    ok 308 - should be equal
+    ok 309 - should be equal
+    ok 310 - should be equal
+    ok 311 - should be equal
+    ok 312 - should be equal
+    ok 313 - should be equal
+    ok 314 - should be equal
+    ok 315 - should be equal
+    ok 316 - should be equal
+    ok 317 - should be equal
+    ok 318 - should be equal
+    ok 319 - should be equal
+    ok 320 - should be equal
+    ok 321 - should be equal
+    ok 322 - should be equal
+    ok 323 - should be equal
+    ok 324 - should be equal
+    ok 325 - should be equal
+    ok 326 - should be equal
+    ok 327 - should be equal
+    ok 328 - should be equal
+    ok 329 - should be equal
+    ok 330 - should be equal
+    ok 331 - should be equal
+    ok 332 - should be equal
+    ok 333 - should be equal
+    ok 334 - should be equal
+    ok 335 - should be equal
+    ok 336 - should be equal
+    ok 337 - should be equal
+    ok 338 - should be equal
+    ok 339 - should be equal
+    ok 340 - should be equal
+    ok 341 - should be equal
+    ok 342 - should be equal
+    ok 343 - should be equal
+    ok 344 - should be equal
+    ok 345 - should be equal
+    ok 346 - should be equal
+    ok 347 - should be equal
+    ok 348 - should be equal
+    ok 349 - should be equal
+    ok 350 - should be equal
+    ok 351 - should be equal
+    ok 352 - should be equal
+    ok 353 - should be equal
+    ok 354 - should be equal
+    ok 355 - should be equal
+    ok 356 - should be equal
+    ok 357 - should be equal
+    ok 358 - should be equal
+    ok 359 - should be equal
+    ok 360 - should be equal
+    ok 361 - should be equal
+    ok 362 - should be equal
+    ok 363 - should be equal
+    ok 364 - should be equal
+    ok 365 - should be equal
+    ok 366 - should be equal
+    ok 367 - should be equal
+    ok 368 - should be equal
+    ok 369 - should be equal
+    ok 370 - should be equal
+    ok 371 - should be equal
+    ok 372 - should be equal
+    ok 373 - should be equal
+    ok 374 - should be equal
+    ok 375 - should be equal
+    ok 376 - should be equal
+    ok 377 - should be equal
+    ok 378 - should be equal
+    ok 379 - should be equal
+    ok 380 - should be equal
+    ok 381 - should be equal
+    ok 382 - should be equal
+    ok 383 - should be equal
+    ok 384 - should be equal
+    ok 385 - should be equal
+    ok 386 - should be equal
+    ok 387 - should be equal
+    ok 388 - should be equal
+    ok 389 - should be equal
+    ok 390 - should be equal
+    ok 391 - should be equal
+    ok 392 - should be equal
+    ok 393 - should be equal
+    ok 394 - should be equal
+    ok 395 - should be equal
+    ok 396 - should be equal
+    ok 397 - should be equal
+    ok 398 - should be equal
+    ok 399 - should be equal
+    ok 400 - should be equal
+    ok 401 - should be equal
+    ok 402 - should be equal
+    ok 403 - should be equal
+    ok 404 - should be equal
+    ok 405 - should be equal
+    ok 406 - should be equal
+    ok 407 - should be equal
+    ok 408 - should be equal
+    ok 409 - should be equal
+    ok 410 - should be equal
+    ok 411 - should be equal
+    ok 412 - should be equal
+    ok 413 - should be equal
+    ok 414 - should be equal
+    ok 415 - should be equal
+    ok 416 - should be equal
+    ok 417 - should be equal
+    ok 418 - should be equal
+    ok 419 - should be equal
+    ok 420 - should be equal
+    ok 421 - should be equal
+    ok 422 - should be equal
+    ok 423 - should be equal
+    ok 424 - should be equal
+    ok 425 - should be equal
+    ok 426 - should be equal
+    ok 427 - should be equal
+    ok 428 - should be equal
+    ok 429 - should be equal
+    ok 430 - should be equal
+    ok 431 - should be equal
+    ok 432 - should be equal
+    ok 433 - should be equal
+    ok 434 - should be equal
+    ok 435 - should be equal
+    ok 436 - should be equal
+    ok 437 - should be equal
+    ok 438 - should be equal
+    ok 439 - should be equal
+    ok 440 - should be equal
+    ok 441 - should be equal
+    ok 442 - should be equal
+    ok 443 - should be equal
+    ok 444 - should be equal
+    ok 445 - should be equal
+    ok 446 - should be equal
+    ok 447 - should be equal
+    ok 448 - should be equal
+    ok 449 - should be equal
+    ok 450 - should be equal
+    ok 451 - should be equal
+    ok 452 - should be equal
+    ok 453 - should be equal
+    ok 454 - should be equal
+    ok 455 - should be equal
+    ok 456 - should be equal
+    ok 457 - should be equal
+    ok 458 - should be equal
+    ok 459 - should be equal
+    ok 460 - should be equal
+    ok 461 - should be equal
+    ok 462 - should be equal
+    ok 463 - should be equal
+    ok 464 - should be equal
+    ok 465 - should be equal
+    ok 466 - should be equal
+    ok 467 - should be equal
+    ok 468 - should be equal
+    ok 469 - should be equal
+    ok 470 - should be equal
+    ok 471 - should be equal
+    ok 472 - should be equal
+    ok 473 - should be equal
+    ok 474 - should be equal
+    ok 475 - should be equal
+    ok 476 - should be equal
+    ok 477 - should be equal
+    ok 478 - should be equal
+    ok 479 - should be equal
+    ok 480 - should be equal
+    ok 481 - should be equal
+    ok 482 - should be equal
+    ok 483 - should be equal
+    ok 484 - should be equal
+    ok 485 - should be equal
+    ok 486 - should be equal
+    ok 487 - should be equal
+    ok 488 - should be equal
+    ok 489 - should be equal
+    ok 490 - should be equal
+    ok 491 - should be equal
+    ok 492 - should be equal
+    ok 493 - should be equal
+    ok 494 - should be equal
+    ok 495 - should be equal
+    ok 496 - should be equal
+    ok 497 - should be equal
+    ok 498 - should be equal
+    ok 499 - should be equal
+    ok 500 - should be equal
+    ok 501 - should be equal
+    ok 502 - should be equal
+    ok 503 - should be equal
+    ok 504 - should be equal
+    ok 505 - should be equal
+    ok 506 - should be equal
+    ok 507 - should be equal
+    ok 508 - should be equal
+    ok 509 - should be equal
+    ok 510 - should be equal
+    ok 511 - should be equal
+    ok 512 - should be equal
+    ok 513 - should be equal
+    ok 514 - should be equal
+    ok 515 - should be equal
+    ok 516 - should be equal
+    ok 517 - should be equal
+    ok 518 - should be equal
+    ok 519 - should be equal
+    ok 520 - should be equal
+    ok 521 - should be equal
+    ok 522 - should be equal
+    ok 523 - should be equal
+    ok 524 - should be equal
+    ok 525 - should be equal
+    ok 526 - should be equal
+    ok 527 - should be equal
+    ok 528 - should be equal
+    ok 529 - should be equal
+    ok 530 - should be equal
+    ok 531 - should be equal
+    ok 532 - should be equal
+    ok 533 - should be equal
+    ok 534 - should be equal
+    ok 535 - should be equal
+    ok 536 - should be equal
+    ok 537 - should be equal
+    ok 538 - should be equal
+    ok 539 - should be equal
+    ok 540 - should be equal
+    ok 541 - should be equal
+    ok 542 - should be equal
+    ok 543 - should be equal
+    ok 544 - should be equal
+    ok 545 - should be equal
+    ok 546 - should be equal
+    ok 547 - should be equal
+    ok 548 - should be equal
+    ok 549 - should be equal
+    ok 550 - should be equal
+    ok 551 - should be equal
+    1..551
+ok 3 - getRandomNumber: testa função getRandomNumber com min e max # time=51.749ms
+
+# Subtest: getAlphanumeric: testa função getAlphanumeric
+    ok 1 - should be equal
+    ok 2 - should be equal
+    ok 3 - should be equal
+    ok 4 - should be equal
+    ok 5 - should be equal
+    ok 6 - should be equal
+    ok 7 - should be equal
+    ok 8 - should be equal
+    ok 9 - should be equal
+    ok 10 - should be equal
+    ok 11 - should be equal
+    ok 12 - should be equal
+    ok 13 - should be equal
+    ok 14 - should be equal
+    ok 15 - should be equal
+    ok 16 - should be equal
+    ok 17 - should be equal
+    ok 18 - should be equal
+    ok 19 - should be equal
+    ok 20 - should be equal
+    ok 21 - should be equal
+    ok 22 - should be equal
+    ok 23 - should be equal
+    ok 24 - should be equal
+    ok 25 - should be equal
+    ok 26 - should be equal
+    ok 27 - should be equal
+    ok 28 - should be equal
+    ok 29 - should be equal
+    ok 30 - should be equal
+    ok 31 - should be equal
+    ok 32 - should be equal
+    ok 33 - should be equal
+    ok 34 - should be equal
+    ok 35 - should be equal
+    ok 36 - should be equal
+    ok 37 - should be equal
+    ok 38 - should be equal
+    ok 39 - should be equal
+    ok 40 - should be equal
+    ok 41 - should be equal
+    ok 42 - should be equal
+    ok 43 - should be equal
+    ok 44 - should be equal
+    ok 45 - should be equal
+    ok 46 - should be equal
+    ok 47 - should be equal
+    ok 48 - should be equal
+    ok 49 - should be equal
+    ok 50 - should be equal
+    1..50
+ok 4 - getAlphanumeric: testa função getAlphanumeric # time=7.917ms
+
+# Subtest: getRandomItem: testa função getRandomItem
+    ok 1 - should be equal
+    ok 2 - should be equal
+    ok 3 - should be equal
+    ok 4 - should be equal
+    1..4
+ok 5 - getRandomItem: testa função getRandomItem # time=1.055ms
+
+# Subtest: getRandomUf: testa função getRandomUf
+    ok 1 - should be equivalent
+    ok 2 - should be equivalent
+    ok 3 - should be equal
+    ok 4 - should be equivalent
+    ok 5 - should be equivalent
+    ok 6 - should be equal
+    ok 7 - should be equivalent
+    ok 8 - should be equivalent
+    ok 9 - should be equal
+    ok 10 - should be equivalent
+    ok 11 - should be equivalent
+    ok 12 - should be equal
+    ok 13 - should be equivalent
+    ok 14 - should be equivalent
+    ok 15 - should be equal
+    ok 16 - should be equivalent
+    ok 17 - should be equivalent
+    ok 18 - should be equal
+    ok 19 - should be equivalent
+    ok 20 - should be equivalent
+    ok 21 - should be equal
+    ok 22 - should be equivalent
+    ok 23 - should be equivalent
+    ok 24 - should be equal
+    ok 25 - should be equivalent
+    ok 26 - should be equivalent
+    ok 27 - should be equal
+    ok 28 - should be equivalent
+    ok 29 - should be equivalent
+    ok 30 - should be equal
+    ok 31 - should be equivalent
+    ok 32 - should be equivalent
+    ok 33 - should be equal
+    ok 34 - should be equivalent
+    ok 35 - should be equivalent
+    ok 36 - should be equal
+    ok 37 - should be equivalent
+    ok 38 - should be equivalent
+    ok 39 - should be equal
+    ok 40 - should be equivalent
+    ok 41 - should be equivalent
+    ok 42 - should be equal
+    ok 43 - should be equivalent
+    ok 44 - should be equivalent
+    ok 45 - should be equal
+    ok 46 - should be equivalent
+    ok 47 - should be equivalent
+    ok 48 - should be equal
+    ok 49 - should be equivalent
+    ok 50 - should be equivalent
+    ok 51 - should be equal
+    ok 52 - should be equivalent
+    ok 53 - should be equivalent
+    ok 54 - should be equal
+    ok 55 - should be equivalent
+    ok 56 - should be equivalent
+    ok 57 - should be equal
+    ok 58 - should be equivalent
+    ok 59 - should be equivalent
+    ok 60 - should be equal
+    ok 61 - should be equivalent
+    ok 62 - should be equivalent
+    ok 63 - should be equal
+    ok 64 - should be equivalent
+    ok 65 - should be equivalent
+    ok 66 - should be equal
+    ok 67 - should be equivalent
+    ok 68 - should be equivalent
+    ok 69 - should be equal
+    ok 70 - should be equivalent
+    ok 71 - should be equivalent
+    ok 72 - should be equal
+    ok 73 - should be equivalent
+    ok 74 - should be equivalent
+    ok 75 - should be equal
+    ok 76 - should be equivalent
+    ok 77 - should be equivalent
+    ok 78 - should be equal
+    ok 79 - should be equivalent
+    ok 80 - should be equivalent
+    ok 81 - should be equal
+    ok 82 - should be equivalent
+    ok 83 - should be equivalent
+    ok 84 - should be equal
+    ok 85 - should be equivalent
+    ok 86 - should be equivalent
+    ok 87 - should be equal
+    ok 88 - should be equivalent
+    ok 89 - should be equivalent
+    ok 90 - should be equal
+    ok 91 - should be equivalent
+    ok 92 - should be equivalent
+    ok 93 - should be equal
+    ok 94 - should be equivalent
+    ok 95 - should be equivalent
+    ok 96 - should be equal
+    ok 97 - should be equivalent
+    ok 98 - should be equivalent
+    ok 99 - should be equal
+    ok 100 - should be equivalent
+    ok 101 - should be equivalent
+    ok 102 - should be equal
+    ok 103 - should be equivalent
+    ok 104 - should be equivalent
+    ok 105 - should be equal
+    ok 106 - should be equivalent
+    ok 107 - should be equivalent
+    ok 108 - should be equal
+    ok 109 - should be equivalent
+    ok 110 - should be equivalent
+    ok 111 - should be equal
+    ok 112 - should be equivalent
+    ok 113 - should be equivalent
+    ok 114 - should be equal
+    ok 115 - should be equivalent
+    ok 116 - should be equivalent
+    ok 117 - should be equal
+    ok 118 - should be equivalent
+    ok 119 - should be equivalent
+    ok 120 - should be equal
+    ok 121 - should be equivalent
+    ok 122 - should be equivalent
+    ok 123 - should be equal
+    ok 124 - should be equivalent
+    ok 125 - should be equivalent
+    ok 126 - should be equal
+    ok 127 - should be equivalent
+    ok 128 - should be equivalent
+    ok 129 - should be equal
+    ok 130 - should be equivalent
+    ok 131 - should be equivalent
+    ok 132 - should be equal
+    ok 133 - should be equivalent
+    ok 134 - should be equivalent
+    ok 135 - should be equal
+    ok 136 - should be equivalent
+    ok 137 - should be equivalent
+    ok 138 - should be equal
+    ok 139 - should be equivalent
+    ok 140 - should be equivalent
+    ok 141 - should be equal
+    ok 142 - should be equivalent
+    ok 143 - should be equivalent
+    ok 144 - should be equal
+    ok 145 - should be equivalent
+    ok 146 - should be equivalent
+    ok 147 - should be equal
+    ok 148 - should be equivalent
+    ok 149 - should be equivalent
+    ok 150 - should be equal
+    ok 151 - should be equivalent
+    ok 152 - should be equivalent
+    ok 153 - should be equal
+    ok 154 - should be equivalent
+    ok 155 - should be equivalent
+    ok 156 - should be equal
+    ok 157 - should be equivalent
+    ok 158 - should be equivalent
+    ok 159 - should be equal
+    ok 160 - should be equivalent
+    ok 161 - should be equivalent
+    ok 162 - should be equal
+    ok 163 - should be equivalent
+    ok 164 - should be equivalent
+    ok 165 - should be equal
+    ok 166 - should be equivalent
+    ok 167 - should be equivalent
+    ok 168 - should be equal
+    ok 169 - should be equivalent
+    ok 170 - should be equivalent
+    ok 171 - should be equal
+    ok 172 - should be equivalent
+    ok 173 - should be equivalent
+    ok 174 - should be equal
+    ok 175 - should be equivalent
+    ok 176 - should be equivalent
+    ok 177 - should be equal
+    ok 178 - should be equivalent
+    ok 179 - should be equivalent
+    ok 180 - should be equal
+    ok 181 - should be equivalent
+    ok 182 - should be equivalent
+    ok 183 - should be equal
+    ok 184 - should be equivalent
+    ok 185 - should be equivalent
+    ok 186 - should be equal
+    ok 187 - should be equivalent
+    ok 188 - should be equivalent
+    ok 189 - should be equal
+    ok 190 - should be equivalent
+    ok 191 - should be equivalent
+    ok 192 - should be equal
+    ok 193 - should be equivalent
+    ok 194 - should be equivalent
+    ok 195 - should be equal
+    ok 196 - should be equivalent
+    ok 197 - should be equivalent
+    ok 198 - should be equal
+    ok 199 - should be equivalent
+    ok 200 - should be equivalent
+    ok 201 - should be equal
+    ok 202 - should be equivalent
+    ok 203 - should be equivalent
+    ok 204 - should be equal
+    ok 205 - should be equivalent
+    ok 206 - should be equivalent
+    ok 207 - should be equal
+    ok 208 - should be equivalent
+    ok 209 - should be equivalent
+    ok 210 - should be equal
+    ok 211 - should be equivalent
+    ok 212 - should be equivalent
+    ok 213 - should be equal
+    ok 214 - should be equivalent
+    ok 215 - should be equivalent
+    ok 216 - should be equal
+    ok 217 - should be equivalent
+    ok 218 - should be equivalent
+    ok 219 - should be equal
+    ok 220 - should be equivalent
+    ok 221 - should be equivalent
+    ok 222 - should be equal
+    ok 223 - should be equivalent
+    ok 224 - should be equivalent
+    ok 225 - should be equal
+    ok 226 - should be equivalent
+    ok 227 - should be equivalent
+    ok 228 - should be equal
+    ok 229 - should be equivalent
+    ok 230 - should be equivalent
+    ok 231 - should be equal
+    ok 232 - should be equivalent
+    ok 233 - should be equivalent
+    ok 234 - should be equal
+    ok 235 - should be equivalent
+    ok 236 - should be equivalent
+    ok 237 - should be equal
+    ok 238 - should be equivalent
+    ok 239 - should be equivalent
+    ok 240 - should be equal
+    ok 241 - should be equivalent
+    ok 242 - should be equivalent
+    ok 243 - should be equal
+    ok 244 - should be equivalent
+    ok 245 - should be equivalent
+    ok 246 - should be equal
+    ok 247 - should be equivalent
+    ok 248 - should be equivalent
+    ok 249 - should be equal
+    ok 250 - should be equivalent
+    ok 251 - should be equivalent
+    ok 252 - should be equal
+    ok 253 - should be equivalent
+    ok 254 - should be equivalent
+    ok 255 - should be equal
+    ok 256 - should be equivalent
+    ok 257 - should be equivalent
+    ok 258 - should be equal
+    ok 259 - should be equivalent
+    ok 260 - should be equivalent
+    ok 261 - should be equal
+    ok 262 - should be equivalent
+    ok 263 - should be equivalent
+    ok 264 - should be equal
+    ok 265 - should be equivalent
+    ok 266 - should be equivalent
+    ok 267 - should be equal
+    ok 268 - should be equivalent
+    ok 269 - should be equivalent
+    ok 270 - should be equal
+    ok 271 - should be equivalent
+    ok 272 - should be equivalent
+    ok 273 - should be equal
+    ok 274 - should be equivalent
+    ok 275 - should be equivalent
+    ok 276 - should be equal
+    ok 277 - should be equivalent
+    ok 278 - should be equivalent
+    ok 279 - should be equal
+    ok 280 - should be equivalent
+    ok 281 - should be equivalent
+    ok 282 - should be equal
+    ok 283 - should be equivalent
+    ok 284 - should be equivalent
+    ok 285 - should be equal
+    ok 286 - should be equivalent
+    ok 287 - should be equivalent
+    ok 288 - should be equal
+    ok 289 - should be equivalent
+    ok 290 - should be equivalent
+    ok 291 - should be equal
+    ok 292 - should be equivalent
+    ok 293 - should be equivalent
+    ok 294 - should be equal
+    ok 295 - should be equivalent
+    ok 296 - should be equivalent
+    ok 297 - should be equal
+    ok 298 - should be equivalent
+    ok 299 - should be equivalent
+    ok 300 - should be equal
+    ok 301 - should be equivalent
+    ok 302 - should be equivalent
+    ok 303 - should be equal
+    ok 304 - should be equivalent
+    ok 305 - should be equivalent
+    ok 306 - should be equal
+    ok 307 - should be equivalent
+    ok 308 - should be equivalent
+    ok 309 - should be equal
+    ok 310 - should be equivalent
+    ok 311 - should be equivalent
+    ok 312 - should be equal
+    ok 313 - should be equivalent
+    ok 314 - should be equivalent
+    ok 315 - should be equal
+    ok 316 - should be equivalent
+    ok 317 - should be equivalent
+    ok 318 - should be equal
+    ok 319 - should be equivalent
+    ok 320 - should be equivalent
+    ok 321 - should be equal
+    ok 322 - should be equivalent
+    ok 323 - should be equivalent
+    ok 324 - should be equal
+    ok 325 - should be equivalent
+    ok 326 - should be equivalent
+    ok 327 - should be equal
+    ok 328 - should be equivalent
+    ok 329 - should be equivalent
+    ok 330 - should be equal
+    ok 331 - should be equivalent
+    ok 332 - should be equivalent
+    ok 333 - should be equal
+    ok 334 - should be equivalent
+    ok 335 - should be equivalent
+    ok 336 - should be equal
+    ok 337 - should be equivalent
+    ok 338 - should be equivalent
+    ok 339 - should be equal
+    ok 340 - should be equivalent
+    ok 341 - should be equivalent
+    ok 342 - should be equal
+    ok 343 - should be equivalent
+    ok 344 - should be equivalent
+    ok 345 - should be equal
+    ok 346 - should be equivalent
+    ok 347 - should be equivalent
+    ok 348 - should be equal
+    ok 349 - should be equivalent
+    ok 350 - should be equivalent
+    ok 351 - should be equal
+    ok 352 - should be equivalent
+    ok 353 - should be equivalent
+    ok 354 - should be equal
+    ok 355 - should be equivalent
+    ok 356 - should be equivalent
+    ok 357 - should be equal
+    ok 358 - should be equivalent
+    ok 359 - should be equivalent
+    ok 360 - should be equal
+    ok 361 - should be equivalent
+    ok 362 - should be equivalent
+    ok 363 - should be equal
+    ok 364 - should be equivalent
+    ok 365 - should be equivalent
+    ok 366 - should be equal
+    ok 367 - should be equivalent
+    ok 368 - should be equivalent
+    ok 369 - should be equal
+    ok 370 - should be equivalent
+    ok 371 - should be equivalent
+    ok 372 - should be equal
+    ok 373 - should be equivalent
+    ok 374 - should be equivalent
+    ok 375 - should be equal
+    ok 376 - should be equivalent
+    ok 377 - should be equivalent
+    ok 378 - should be equal
+    ok 379 - should be equivalent
+    ok 380 - should be equivalent
+    ok 381 - should be equal
+    ok 382 - should be equivalent
+    ok 383 - should be equivalent
+    ok 384 - should be equal
+    ok 385 - should be equivalent
+    ok 386 - should be equivalent
+    ok 387 - should be equal
+    ok 388 - should be equivalent
+    ok 389 - should be equivalent
+    ok 390 - should be equal
+    ok 391 - should be equivalent
+    ok 392 - should be equivalent
+    ok 393 - should be equal
+    ok 394 - should be equivalent
+    ok 395 - should be equivalent
+    ok 396 - should be equal
+    ok 397 - should be equivalent
+    ok 398 - should be equivalent
+    ok 399 - should be equal
+    ok 400 - should be equivalent
+    ok 401 - should be equivalent
+    ok 402 - should be equal
+    ok 403 - should be equivalent
+    ok 404 - should be equivalent
+    ok 405 - should be equal
+    ok 406 - should be equivalent
+    ok 407 - should be equivalent
+    ok 408 - should be equal
+    ok 409 - should be equivalent
+    ok 410 - should be equivalent
+    ok 411 - should be equal
+    ok 412 - should be equivalent
+    ok 413 - should be equivalent
+    ok 414 - should be equal
+    ok 415 - should be equivalent
+    ok 416 - should be equivalent
+    ok 417 - should be equal
+    ok 418 - should be equivalent
+    ok 419 - should be equivalent
+    ok 420 - should be equal
+    ok 421 - should be equivalent
+    ok 422 - should be equivalent
+    ok 423 - should be equal
+    ok 424 - should be equivalent
+    ok 425 - should be equivalent
+    ok 426 - should be equal
+    ok 427 - should be equivalent
+    ok 428 - should be equivalent
+    ok 429 - should be equal
+    ok 430 - should be equivalent
+    ok 431 - should be equivalent
+    ok 432 - should be equal
+    ok 433 - should be equivalent
+    ok 434 - should be equivalent
+    ok 435 - should be equal
+    ok 436 - should be equivalent
+    ok 437 - should be equivalent
+    ok 438 - should be equal
+    ok 439 - should be equivalent
+    ok 440 - should be equivalent
+    ok 441 - should be equal
+    ok 442 - should be equivalent
+    ok 443 - should be equivalent
+    ok 444 - should be equal
+    ok 445 - should be equivalent
+    ok 446 - should be equivalent
+    ok 447 - should be equal
+    ok 448 - should be equivalent
+    ok 449 - should be equivalent
+    ok 450 - should be equal
+    ok 451 - should be equivalent
+    ok 452 - should be equivalent
+    ok 453 - should be equal
+    ok 454 - should be equivalent
+    ok 455 - should be equivalent
+    ok 456 - should be equal
+    ok 457 - should be equivalent
+    ok 458 - should be equivalent
+    ok 459 - should be equal
+    ok 460 - should be equivalent
+    ok 461 - should be equivalent
+    ok 462 - should be equal
+    ok 463 - should be equivalent
+    ok 464 - should be equivalent
+    ok 465 - should be equal
+    ok 466 - should be equivalent
+    ok 467 - should be equivalent
+    ok 468 - should be equal
+    ok 469 - should be equivalent
+    ok 470 - should be equivalent
+    ok 471 - should be equal
+    ok 472 - should be equivalent
+    ok 473 - should be equivalent
+    ok 474 - should be equal
+    ok 475 - should be equivalent
+    ok 476 - should be equivalent
+    ok 477 - should be equal
+    ok 478 - should be equivalent
+    ok 479 - should be equivalent
+    ok 480 - should be equal
+    ok 481 - should be equivalent
+    ok 482 - should be equivalent
+    ok 483 - should be equal
+    ok 484 - should be equivalent
+    ok 485 - should be equivalent
+    ok 486 - should be equal
+    ok 487 - should be equivalent
+    ok 488 - should be equivalent
+    ok 489 - should be equal
+    ok 490 - should be equivalent
+    ok 491 - should be equivalent
+    ok 492 - should be equal
+    ok 493 - should be equivalent
+    ok 494 - should be equivalent
+    ok 495 - should be equal
+    ok 496 - should be equivalent
+    ok 497 - should be equivalent
+    ok 498 - should be equal
+    ok 499 - should be equivalent
+    ok 500 - should be equivalent
+    ok 501 - should be equal
+    ok 502 - should be equivalent
+    ok 503 - should be equivalent
+    ok 504 - should be equal
+    ok 505 - should be equivalent
+    ok 506 - should be equivalent
+    ok 507 - should be equal
+    ok 508 - should be equivalent
+    ok 509 - should be equivalent
+    ok 510 - should be equal
+    ok 511 - should be equivalent
+    ok 512 - should be equivalent
+    ok 513 - should be equal
+    ok 514 - should be equivalent
+    ok 515 - should be equivalent
+    ok 516 - should be equal
+    ok 517 - should be equivalent
+    ok 518 - should be equivalent
+    ok 519 - should be equal
+    ok 520 - should be equivalent
+    ok 521 - should be equivalent
+    ok 522 - should be equal
+    ok 523 - should be equivalent
+    ok 524 - should be equivalent
+    ok 525 - should be equal
+    ok 526 - should be equivalent
+    ok 527 - should be equivalent
+    ok 528 - should be equal
+    ok 529 - should be equivalent
+    ok 530 - should be equivalent
+    ok 531 - should be equal
+    ok 532 - should be equivalent
+    ok 533 - should be equivalent
+    ok 534 - should be equal
+    ok 535 - should be equivalent
+    ok 536 - should be equivalent
+    ok 537 - should be equal
+    ok 538 - should be equivalent
+    ok 539 - should be equivalent
+    ok 540 - should be equal
+    ok 541 - should be equivalent
+    ok 542 - should be equivalent
+    ok 543 - should be equal
+    ok 544 - should be equivalent
+    ok 545 - should be equivalent
+    ok 546 - should be equal
+    ok 547 - should be equivalent
+    ok 548 - should be equivalent
+    ok 549 - should be equal
+    ok 550 - should be equivalent
+    ok 551 - should be equivalent
+    ok 552 - should be equal
+    ok 553 - should be equivalent
+    ok 554 - should be equivalent
+    ok 555 - should be equal
+    ok 556 - should be equivalent
+    ok 557 - should be equivalent
+    ok 558 - should be equal
+    ok 559 - should be equivalent
+    ok 560 - should be equivalent
+    ok 561 - should be equal
+    ok 562 - should be equivalent
+    ok 563 - should be equivalent
+    ok 564 - should be equal
+    ok 565 - should be equivalent
+    ok 566 - should be equivalent
+    ok 567 - should be equal
+    ok 568 - should be equivalent
+    ok 569 - should be equivalent
+    ok 570 - should be equal
+    ok 571 - should be equivalent
+    ok 572 - should be equivalent
+    ok 573 - should be equal
+    ok 574 - should be equivalent
+    ok 575 - should be equivalent
+    ok 576 - should be equal
+    ok 577 - should be equivalent
+    ok 578 - should be equivalent
+    ok 579 - should be equal
+    ok 580 - should be equivalent
+    ok 581 - should be equivalent
+    ok 582 - should be equal
+    ok 583 - should be equivalent
+    ok 584 - should be equivalent
+    ok 585 - should be equal
+    ok 586 - should be equivalent
+    ok 587 - should be equivalent
+    ok 588 - should be equal
+    ok 589 - should be equivalent
+    ok 590 - should be equivalent
+    ok 591 - should be equal
+    ok 592 - should be equivalent
+    ok 593 - should be equivalent
+    ok 594 - should be equal
+    ok 595 - should be equivalent
+    ok 596 - should be equivalent
+    ok 597 - should be equal
+    ok 598 - should be equivalent
+    ok 599 - should be equivalent
+    ok 600 - should be equal
+    ok 601 - should be equivalent
+    ok 602 - should be equivalent
+    ok 603 - should be equal
+    ok 604 - should be equivalent
+    ok 605 - should be equivalent
+    ok 606 - should be equal
+    ok 607 - should be equivalent
+    ok 608 - should be equivalent
+    ok 609 - should be equal
+    ok 610 - should be equivalent
+    ok 611 - should be equivalent
+    ok 612 - should be equal
+    ok 613 - should be equivalent
+    ok 614 - should be equivalent
+    ok 615 - should be equal
+    ok 616 - should be equivalent
+    ok 617 - should be equivalent
+    ok 618 - should be equal
+    ok 619 - should be equivalent
+    ok 620 - should be equivalent
+    ok 621 - should be equal
+    ok 622 - should be equivalent
+    ok 623 - should be equivalent
+    ok 624 - should be equal
+    ok 625 - should be equivalent
+    ok 626 - should be equivalent
+    ok 627 - should be equal
+    ok 628 - should be equivalent
+    ok 629 - should be equivalent
+    ok 630 - should be equal
+    ok 631 - should be equivalent
+    ok 632 - should be equivalent
+    ok 633 - should be equal
+    ok 634 - should be equivalent
+    ok 635 - should be equivalent
+    ok 636 - should be equal
+    ok 637 - should be equivalent
+    ok 638 - should be equivalent
+    ok 639 - should be equal
+    ok 640 - should be equivalent
+    ok 641 - should be equivalent
+    ok 642 - should be equal
+    ok 643 - should be equivalent
+    ok 644 - should be equivalent
+    ok 645 - should be equal
+    ok 646 - should be equivalent
+    ok 647 - should be equivalent
+    ok 648 - should be equal
+    ok 649 - should be equivalent
+    ok 650 - should be equivalent
+    ok 651 - should be equal
+    ok 652 - should be equivalent
+    ok 653 - should be equivalent
+    ok 654 - should be equal
+    ok 655 - should be equivalent
+    ok 656 - should be equivalent
+    ok 657 - should be equal
+    ok 658 - should be equivalent
+    ok 659 - should be equivalent
+    ok 660 - should be equal
+    ok 661 - should be equivalent
+    ok 662 - should be equivalent
+    ok 663 - should be equal
+    ok 664 - should be equivalent
+    ok 665 - should be equivalent
+    ok 666 - should be equal
+    ok 667 - should be equivalent
+    ok 668 - should be equivalent
+    ok 669 - should be equal
+    ok 670 - should be equivalent
+    ok 671 - should be equivalent
+    ok 672 - should be equal
+    ok 673 - should be equivalent
+    ok 674 - should be equivalent
+    ok 675 - should be equal
+    ok 676 - should be equivalent
+    ok 677 - should be equivalent
+    ok 678 - should be equal
+    ok 679 - should be equivalent
+    ok 680 - should be equivalent
+    ok 681 - should be equal
+    ok 682 - should be equivalent
+    ok 683 - should be equivalent
+    ok 684 - should be equal
+    ok 685 - should be equivalent
+    ok 686 - should be equivalent
+    ok 687 - should be equal
+    ok 688 - should be equivalent
+    ok 689 - should be equivalent
+    ok 690 - should be equal
+    ok 691 - should be equivalent
+    ok 692 - should be equivalent
+    ok 693 - should be equal
+    ok 694 - should be equivalent
+    ok 695 - should be equivalent
+    ok 696 - should be equal
+    ok 697 - should be equivalent
+    ok 698 - should be equivalent
+    ok 699 - should be equal
+    ok 700 - should be equivalent
+    ok 701 - should be equivalent
+    ok 702 - should be equal
+    ok 703 - should be equivalent
+    ok 704 - should be equivalent
+    ok 705 - should be equal
+    ok 706 - should be equivalent
+    ok 707 - should be equivalent
+    ok 708 - should be equal
+    ok 709 - should be equivalent
+    ok 710 - should be equivalent
+    ok 711 - should be equal
+    ok 712 - should be equivalent
+    ok 713 - should be equivalent
+    ok 714 - should be equal
+    ok 715 - should be equivalent
+    ok 716 - should be equivalent
+    ok 717 - should be equal
+    ok 718 - should be equivalent
+    ok 719 - should be equivalent
+    ok 720 - should be equal
+    ok 721 - should be equivalent
+    ok 722 - should be equivalent
+    ok 723 - should be equal
+    ok 724 - should be equivalent
+    ok 725 - should be equivalent
+    ok 726 - should be equal
+    ok 727 - should be equivalent
+    ok 728 - should be equivalent
+    ok 729 - should be equal
+    ok 730 - should be equivalent
+    ok 731 - should be equivalent
+    ok 732 - should be equal
+    ok 733 - should be equivalent
+    ok 734 - should be equivalent
+    ok 735 - should be equal
+    ok 736 - should be equivalent
+    ok 737 - should be equivalent
+    ok 738 - should be equal
+    ok 739 - should be equivalent
+    ok 740 - should be equivalent
+    ok 741 - should be equal
+    ok 742 - should be equivalent
+    ok 743 - should be equivalent
+    ok 744 - should be equal
+    ok 745 - should be equivalent
+    ok 746 - should be equivalent
+    ok 747 - should be equal
+    ok 748 - should be equivalent
+    ok 749 - should be equivalent
+    ok 750 - should be equal
+    ok 751 - should be equivalent
+    ok 752 - should be equivalent
+    ok 753 - should be equal
+    ok 754 - should be equivalent
+    ok 755 - should be equivalent
+    ok 756 - should be equal
+    ok 757 - should be equivalent
+    ok 758 - should be equivalent
+    ok 759 - should be equal
+    ok 760 - should be equivalent
+    ok 761 - should be equivalent
+    ok 762 - should be equal
+    ok 763 - should be equivalent
+    ok 764 - should be equivalent
+    ok 765 - should be equal
+    ok 766 - should be equivalent
+    ok 767 - should be equivalent
+    ok 768 - should be equal
+    ok 769 - should be equivalent
+    ok 770 - should be equivalent
+    ok 771 - should be equal
+    ok 772 - should be equivalent
+    ok 773 - should be equivalent
+    ok 774 - should be equal
+    ok 775 - should be equivalent
+    ok 776 - should be equivalent
+    ok 777 - should be equal
+    ok 778 - should be equivalent
+    ok 779 - should be equivalent
+    ok 780 - should be equal
+    ok 781 - should be equivalent
+    ok 782 - should be equivalent
+    ok 783 - should be equal
+    ok 784 - should be equivalent
+    ok 785 - should be equivalent
+    ok 786 - should be equal
+    ok 787 - should be equivalent
+    ok 788 - should be equivalent
+    ok 789 - should be equal
+    ok 790 - should be equivalent
+    ok 791 - should be equivalent
+    ok 792 - should be equal
+    ok 793 - should be equivalent
+    ok 794 - should be equivalent
+    ok 795 - should be equal
+    ok 796 - should be equivalent
+    ok 797 - should be equivalent
+    ok 798 - should be equal
+    ok 799 - should be equivalent
+    ok 800 - should be equivalent
+    ok 801 - should be equal
+    ok 802 - should be equivalent
+    ok 803 - should be equivalent
+    ok 804 - should be equal
+    ok 805 - should be equivalent
+    ok 806 - should be equivalent
+    ok 807 - should be equal
+    ok 808 - should be equivalent
+    ok 809 - should be equivalent
+    ok 810 - should be equal
+    ok 811 - should be equivalent
+    ok 812 - should be equivalent
+    ok 813 - should be equal
+    1..813
+ok 6 - getRandomUf: testa função getRandomUf # time=62.626ms
+
+# Subtest: getRgNumber: testa função getRgNumber
+    ok 1 - should be equivalent
+    ok 2 - should be equal
+    1..2
+ok 7 - getRgNumber: testa função getRgNumber # time=0.875ms
+
+# Subtest: getRandomCPForCNPJ: testa função getRandomCPForCNPJ
+    ok 1 - [0]73116344569307
+    ok 2 - [1]56424772885549
+    ok 3 - [2]28668425293
+    ok 4 - [3]36464384104
+    ok 5 - [4]22752136439
+    ok 6 - [5]36616699749
+    ok 7 - [6]93477481391119
+    ok 8 - [7]25324278475682
+    ok 9 - [8]91148553720
+    ok 10 - [9]22761524608
+    ok 11 - [10]43518455206
+    ok 12 - [11]92282633817677
+    ok 13 - [12]83499958289848
+    ok 14 - [13]35143647452
+    ok 15 - [14]28886554774179
+    ok 16 - [15]35249953301
+    ok 17 - [16]34629421655455
+    ok 18 - [17]51251369315362
+    ok 19 - [18]96733165970
+    ok 20 - [19]84127625503
+    ok 21 - [20]98587246402
+    ok 22 - [21]81266944834
+    ok 23 - [22]71318954231
+    ok 24 - [23]87366483237724
+    ok 25 - [24]81833169172847
+    ok 26 - [25]54554424570
+    ok 27 - [26]54921127670
+    ok 28 - [27]41528286263250
+    ok 29 - [28]92747289747417
+    ok 30 - [29]31341631877
+    ok 31 - [30]95291754691637
+    ok 32 - [31]36924537742337
+    ok 33 - [32]37647261647799
+    ok 34 - [33]47568689751
+    ok 35 - [34]23542339637229
+    ok 36 - [35]89118699139281
+    ok 37 - [36]76927267291900
+    ok 38 - [37]75814423900
+    ok 39 - [38]82857385851288
+    ok 40 - [39]64716838986
+    ok 41 - [40]51264875746
+    ok 42 - [41]57638579281473
+    ok 43 - [42]86986816935100
+    ok 44 - [43]79856297115208
+    ok 45 - [44]15374272616
+    ok 46 - [45]85161596877821
+    ok 47 - [46]31642899175565
+    ok 48 - [47]64128263451769
+    ok 49 - [48]82664481942868
+    ok 50 - [49]68527146737290
+    ok 51 - [50]56935593475246
+    ok 52 - [51]33934814643908
+    ok 53 - [52]56656489823784
+    ok 54 - [53]54763421840
+    ok 55 - [54]62599274625546
+    ok 56 - [55]47326713252420
+    ok 57 - [56]82433655404
+    ok 58 - [57]35547661511
+    ok 59 - [58]33327377714659
+    ok 60 - [59]14322486962535
+    ok 61 - [60]31852397250
+    ok 62 - [61]77479864346700
+    ok 63 - [62]83885483119310
+    ok 64 - [63]29523925520
+    ok 65 - [64]99834281218
+    ok 66 - [65]39286466887518
+    ok 67 - [66]33663515861118
+    ok 68 - [67]65658112211717
+    ok 69 - [68]12189747986154
+    ok 70 - [69]53121853392470
+    ok 71 - [70]44449534517380
+    ok 72 - [71]41549318810
+    ok 73 - [72]78369157152873
+    ok 74 - [73]61215759966943
+    ok 75 - [74]94725625255740
+    ok 76 - [75]69417337564
+    ok 77 - [76]22191351107
+    ok 78 - [77]48966489788
+    ok 79 - [78]96139428811758
+    ok 80 - [79]33997537488
+    ok 81 - [80]75812223685155
+    ok 82 - [81]29216176874485
+    ok 83 - [82]81212191323
+    ok 84 - [83]88178874989
+    ok 85 - [84]48546633348122
+    ok 86 - [85]91277756691700
+    ok 87 - [86]99946521786555
+    ok 88 - [87]59575979613
+    ok 89 - [88]74216575524254
+    ok 90 - [89]69587482759775
+    ok 91 - [90]56342936261897
+    ok 92 - [91]95239715572
+    ok 93 - [92]45158521590
+    ok 94 - [93]87487791257652
+    ok 95 - [94]47414172635
+    ok 96 - [95]34679154187
+    ok 97 - [96]29464866755870
+    ok 98 - [97]69335716618
+    ok 99 - [98]75165838200
+    ok 100 - [99]96441975926779
+    ok 101 - [100]77549391939
+    ok 102 - [101]59655675882
+    ok 103 - [102]26911256372
+    ok 104 - [103]31288712480
+    ok 105 - [104]45533291903
+    ok 106 - [105]18761851412739
+    ok 107 - [106]79661223955
+    ok 108 - [107]52215218213152
+    ok 109 - [108]85154299555142
+    ok 110 - [109]43122714299
+    ok 111 - [110]92942235645324
+    ok 112 - [111]51397575454660
+    ok 113 - [112]37765875325140
+    ok 114 - [113]98124928942331
+    ok 115 - [114]36296268335188
+    ok 116 - [115]56283975127
+    ok 117 - [116]67689149954447
+    ok 118 - [117]56781457896
+    ok 119 - [118]91521756341
+    ok 120 - [119]24552273593337
+    ok 121 - [120]86189424210
+    ok 122 - [121]18133989247300
+    ok 123 - [122]36836286850
+    ok 124 - [123]19984884664351
+    ok 125 - [124]41454473525
+    ok 126 - [125]85697673230
+    ok 127 - [126]64332613599299
+    ok 128 - [127]54664171496689
+    ok 129 - [128]71413157998
+    ok 130 - [129]34185685759912
+    ok 131 - [130]69786321120
+    ok 132 - [131]77498331705
+    ok 133 - [132]16958578536354
+    ok 134 - [133]77366596809
+    ok 135 - [134]24881186566
+    ok 136 - [135]24145629868
+    ok 137 - [136]84997186805
+    ok 138 - [137]69698721168480
+    ok 139 - [138]66348788970
+    ok 140 - [139]39368722528
+    ok 141 - [140]76344348844
+    ok 142 - [141]13893342281
+    ok 143 - [142]31585865116490
+    ok 144 - [143]66446941447
+    ok 145 - [144]29632773420
+    ok 146 - [145]83952982504
+    ok 147 - [146]22227591682669
+    ok 148 - [147]67553964867
+    ok 149 - [148]82911617539650
+    ok 150 - [149]34815755990
+    ok 151 - [150]81148675159
+    ok 152 - [151]97799694423419
+    ok 153 - [152]56929757772
+    ok 154 - [153]19651757773385
+    ok 155 - [154]74773541709
+    ok 156 - [155]24224817870
+    ok 157 - [156]73863463431135
+    ok 158 - [157]16841969841782
+    ok 159 - [158]47128752751924
+    ok 160 - [159]49519425281604
+    ok 161 - [160]85121968592700
+    ok 162 - [161]98764795632
+    ok 163 - [162]36811957816
+    ok 164 - [163]94339471353504
+    ok 165 - [164]24499923247
+    ok 166 - [165]33742887904
+    ok 167 - [166]43767536960
+    ok 168 - [167]49277298855
+    ok 169 - [168]37263173255
+    ok 170 - [169]19777136889
+    ok 171 - [170]25558126442
+    ok 172 - [171]48113569255503
+    ok 173 - [172]85723564979284
+    ok 174 - [173]71877147850
+    ok 175 - [174]81545338359838
+    ok 176 - [175]16172258192
+    ok 177 - [176]31447892223317
+    ok 178 - [177]32785273486
+    ok 179 - [178]47879931954845
+    ok 180 - [179]54462845961250
+    ok 181 - [180]44433788635
+    ok 182 - [181]23982442966
+    ok 183 - [182]49315686888
+    ok 184 - [183]98816635779147
+    ok 185 - [184]18242672237
+    ok 186 - [185]66119867882163
+    ok 187 - [186]23395773221
+    ok 188 - [187]59797996419356
+    ok 189 - [188]44196792692994
+    ok 190 - [189]96917682971427
+    ok 191 - [190]99583246956
+    ok 192 - [191]52465364869384
+    ok 193 - [192]21948626199260
+    ok 194 - [193]15929313252251
+    ok 195 - [194]69638937998
+    ok 196 - [195]11326969294657
+    ok 197 - [196]99123534478
+    ok 198 - [197]64984323944423
+    ok 199 - [198]94848891906
+    ok 200 - [199]82595132948449
+    ok 201 - [200]58357171214
+    ok 202 - [201]15155959466377
+    ok 203 - [202]63328944812743
+    ok 204 - [203]22196262867991
+    ok 205 - [204]31349358720
+    ok 206 - [205]54425913677758
+    ok 207 - [206]92849574129516
+    ok 208 - [207]45399454847207
+    ok 209 - [208]36485174141
+    ok 210 - [209]28463264358160
+    ok 211 - [210]83973391327
+    ok 212 - [211]79683998909
+    ok 213 - [212]66553335743792
+    ok 214 - [213]64186394514800
+    ok 215 - [214]91527246294736
+    ok 216 - [215]77268995879216
+    ok 217 - [216]43994248850
+    ok 218 - [217]51884978134729
+    ok 219 - [218]44798747980
+    ok 220 - [219]54461622557817
+    ok 221 - [220]43339426646605
+    ok 222 - [221]83289253708
+    ok 223 - [222]62816727203
+    ok 224 - [223]25388833124250
+    ok 225 - [224]82398716339835
+    ok 226 - [225]44752571734895
+    ok 227 - [226]23159232686400
+    ok 228 - [227]14811776720
+    ok 229 - [228]17778698856248
+    ok 230 - [229]97292692702
+    ok 231 - [230]34997562262
+    ok 232 - [231]88958448516488
+    ok 233 - [232]19519984992
+    ok 234 - [233]88542697874572
+    ok 235 - [234]66536966644479
+    ok 236 - [235]45585954415
+    ok 237 - [236]71394815557
+    ok 238 - [237]12769943979401
+    ok 239 - [238]89829511275301
+    ok 240 - [239]21965343155
+    ok 241 - [240]62378215651972
+    ok 242 - [241]61489459995200
+    ok 243 - [242]61356257747467
+    ok 244 - [243]41388257971
+    ok 245 - [244]52735196321
+    ok 246 - [245]73214628976
+    ok 247 - [246]12937293273946
+    ok 248 - [247]84898342585100
+    ok 249 - [248]42549457528
+    ok 250 - [249]36936562937425
+    ok 251 - [250]49449974657285
+    ok 252 - [251]74548714698741
+    ok 253 - [252]29637292833445
+    ok 254 - [253]16529794729859
+    ok 255 - [254]91489753285308
+    ok 256 - [255]61775278689
+    ok 257 - [256]79566756926454
+    ok 258 - [257]92396212370
+    ok 259 - [258]63677373409
+    ok 260 - [259]93588385532817
+    ok 261 - [260]14852816794
+    ok 262 - [261]54565736284
+    ok 263 - [262]83423347830
+    ok 264 - [263]98397133453
+    ok 265 - [264]27992352419837
+    ok 266 - [265]75835957203
+    ok 267 - [266]22624885765
+    ok 268 - [267]74298199827
+    ok 269 - [268]49575385629380
+    ok 270 - [269]27795856475180
+    ok 271 - [270]45533999754835
+    ok 272 - [271]41616583541
+    ok 273 - [272]55272358783
+    ok 274 - [273]25526919609
+    ok 275 - [274]51214698883
+    ok 276 - [275]99133788260
+    ok 277 - [276]87618946159551
+    ok 278 - [277]47636477335
+    ok 279 - [278]39872831591537
+    ok 280 - [279]44763677433932
+    ok 281 - [280]47935136235200
+    ok 282 - [281]81769823859
+    ok 283 - [282]36632554189685
+    ok 284 - [283]37688856584855
+    ok 285 - [284]89889714465923
+    ok 286 - [285]59553494480
+    ok 287 - [286]93565849223141
+    ok 288 - [287]74651378960
+    ok 289 - [288]18225654641
+    ok 290 - [289]98122837756490
+    ok 291 - [290]28465595132327
+    ok 292 - [291]77667727368
+    ok 293 - [292]39715414966
+    ok 294 - [293]83713994342500
+    ok 295 - [294]43625257181
+    ok 296 - [295]52885972270
+    ok 297 - [296]53679943938
+    ok 298 - [297]63534593600
+    ok 299 - [298]43947681946430
+    ok 300 - [299]69666217154287
+    ok 301 - [300]36152817842832
+    ok 302 - [301]81999731371338
+    ok 303 - [302]18764193934
+    ok 304 - [303]96645683511540
+    ok 305 - [304]33236446466704
+    ok 306 - [305]53213172405
+    ok 307 - [306]49841682346
+    ok 308 - [307]46784329732
+    ok 309 - [308]62297582393390
+    ok 310 - [309]89315144528552
+    ok 311 - [310]84327321924877
+    ok 312 - [311]25692695812
+    ok 313 - [312]53813747719
+    ok 314 - [313]67321816873787
+    ok 315 - [314]88517162935
+    ok 316 - [315]99484899788102
+    ok 317 - [316]29314823822
+    ok 318 - [317]66943165322145
+    ok 319 - [318]91161838279
+    ok 320 - [319]85118916844
+    ok 321 - [320]82212712147903
+    ok 322 - [321]54138518550
+    ok 323 - [322]23647217145914
+    ok 324 - [323]17298691988303
+    ok 325 - [324]75322482407
+    ok 326 - [325]28325382931103
+    ok 327 - [326]83477268547501
+    ok 328 - [327]88451212385682
+    ok 329 - [328]68918342799
+    ok 330 - [329]21516839587
+    ok 331 - [330]64411194637395
+    ok 332 - [331]73515133178
+    ok 333 - [332]87917178170
+    ok 334 - [333]25263215995586
+    ok 335 - [334]45324769118870
+    ok 336 - [335]93642411365410
+    ok 337 - [336]82482632747223
+    ok 338 - [337]99935226271
+    ok 339 - [338]34758113750
+    ok 340 - [339]63743996502
+    ok 341 - [340]14143528789844
+    ok 342 - [341]68734474803
+    ok 343 - [342]38187386100
+    ok 344 - [343]64449337654
+    ok 345 - [344]92961887626433
+    ok 346 - [345]35496834139
+    ok 347 - [346]24914743442
+    ok 348 - [347]73953364456
+    ok 349 - [348]49469988538768
+    ok 350 - [349]85412853838
+    ok 351 - [350]26934667921
+    ok 352 - [351]63178892605
+    ok 353 - [352]12416525115
+    ok 354 - [353]85894154812
+    ok 355 - [354]96418566154767
+    ok 356 - [355]47439338182893
+    ok 357 - [356]26969885182720
+    ok 358 - [357]18397791715531
+    ok 359 - [358]94777891759510
+    ok 360 - [359]78299548137126
+    ok 361 - [360]12964574573606
+    ok 362 - [361]43168379905
+    ok 363 - [362]72623162317638
+    ok 364 - [363]62512919315
+    ok 365 - [364]43123741157900
+    ok 366 - [365]61776286521838
+    ok 367 - [366]69567459843
+    ok 368 - [367]11485274788
+    ok 369 - [368]18639818886
+    ok 370 - [369]73395666666451
+    ok 371 - [370]98716941561408
+    ok 372 - [371]67362748656787
+    ok 373 - [372]81898498118588
+    ok 374 - [373]33629392105
+    ok 375 - [374]19592639693749
+    ok 376 - [375]11772481257618
+    ok 377 - [376]58617655357695
+    ok 378 - [377]89624559198
+    ok 379 - [378]21863373128
+    ok 380 - [379]25918853813660
+    ok 381 - [380]96162227910
+    ok 382 - [381]63794127781
+    ok 383 - [382]41726421488940
+    ok 384 - [383]69623829795
+    ok 385 - [384]64865138214799
+    ok 386 - [385]63668765847
+    ok 387 - [386]81222516453136
+    ok 388 - [387]74396199783
+    ok 389 - [388]29746848247389
+    ok 390 - [389]81628545535417
+    ok 391 - [390]63419839394454
+    ok 392 - [391]74175155333
+    ok 393 - [392]59691764199
+    ok 394 - [393]23254937171
+    ok 395 - [394]81556595859
+    ok 396 - [395]66737635582450
+    ok 397 - [396]24143755349262
+    ok 398 - [397]89828949776
+    ok 399 - [398]89383564658780
+    ok 400 - [399]25135182500
+    ok 401 - [400]39829562859
+    ok 402 - [401]54454126943981
+    ok 403 - [402]54951252477282
+    ok 404 - [403]78956539545
+    ok 405 - [404]81596872777365
+    ok 406 - [405]77434628979622
+    ok 407 - [406]48193422465206
+    ok 408 - [407]63121318495875
+    ok 409 - [408]89183827717142
+    ok 410 - [409]23611591223197
+    ok 411 - [410]53875362657736
+    ok 412 - [411]84121311762457
+    ok 413 - [412]88246228870
+    ok 414 - [413]79334134801
+    ok 415 - [414]36129692528874
+    ok 416 - [415]48182648491
+    ok 417 - [416]69492698544
+    ok 418 - [417]36273298211
+    ok 419 - [418]38885583366217
+    ok 420 - [419]24223244717233
+    ok 421 - [420]92852728940
+    ok 422 - [421]78142694513811
+    ok 423 - [422]24592438617686
+    ok 424 - [423]33682915545929
+    ok 425 - [424]12447621633728
+    ok 426 - [425]38459668401
+    ok 427 - [426]81916673392
+    ok 428 - [427]24967839576
+    ok 429 - [428]84111289975
+    ok 430 - [429]63937615752705
+    ok 431 - [430]54595179552999
+    ok 432 - [431]23594258203
+    ok 433 - [432]51586423737900
+    ok 434 - [433]15493957598979
+    ok 435 - [434]25926164974
+    ok 436 - [435]14488814638
+    ok 437 - [436]74449351674502
+    ok 438 - [437]53811667882
+    ok 439 - [438]73647242466691
+    ok 440 - [439]37145673636605
+    ok 441 - [440]85583447109
+    ok 442 - [441]11943313784
+    ok 443 - [442]52586339932
+    ok 444 - [443]85763317726
+    ok 445 - [444]72772282373858
+    ok 446 - [445]23195858362811
+    ok 447 - [446]11276937531149
+    ok 448 - [447]31319853373492
+    ok 449 - [448]94631588713
+    ok 450 - [449]19283144921463
+    ok 451 - [450]54967968732
+    ok 452 - [451]26135679544306
+    ok 453 - [452]59139412253
+    ok 454 - [453]92495715770
+    ok 455 - [454]62125738631205
+    ok 456 - [455]82551191327
+    ok 457 - [456]32285182139
+    ok 458 - [457]73843419655
+    ok 459 - [458]69856464927
+    ok 460 - [459]46573127900
+    ok 461 - [460]37251564124779
+    ok 462 - [461]46515246803
+    ok 463 - [462]67332521586723
+    ok 464 - [463]87662646582650
+    ok 465 - [464]21951456335
+    ok 466 - [465]53135752744826
+    ok 467 - [466]99981519707
+    ok 468 - [467]55446955390
+    ok 469 - [468]21355347815
+    ok 470 - [469]72897758541933
+    ok 471 - [470]59977585245255
+    ok 472 - [471]82257544691680
+    ok 473 - [472]87256967500
+    ok 474 - [473]99371148373
+    ok 475 - [474]93544334849749
+    ok 476 - [475]77624425388668
+    ok 477 - [476]64122885892
+    ok 478 - [477]98575223860
+    ok 479 - [478]64519572423553
+    ok 480 - [479]36534218411203
+    ok 481 - [480]64729146212
+    ok 482 - [481]77634617725
+    ok 483 - [482]99488865617880
+    ok 484 - [483]74555897510
+    ok 485 - [484]45951991714
+    ok 486 - [485]64569743218
+    ok 487 - [486]24242614573857
+    ok 488 - [487]26693366886754
+    ok 489 - [488]63765323144
+    ok 490 - [489]64247142437
+    ok 491 - [490]22169392169570
+    ok 492 - [491]86834116282880
+    ok 493 - [492]89714732884608
+    ok 494 - [493]43343228168
+    ok 495 - [494]33879531187204
+    ok 496 - [495]98143986322
+    ok 497 - [496]33586773119123
+    ok 498 - [497]28423979455127
+    ok 499 - [498]66584394352
+    ok 500 - [499]18786612131
+    ok 501 - [500]24695419815800
+    ok 502 - [501]73795344984523
+    ok 503 - [502]35767786402
+    ok 504 - [503]42733291245447
+    ok 505 - [504]54834366177958
+    ok 506 - [505]53726315521152
+    ok 507 - [506]68495996799101
+    ok 508 - [507]58327216567375
+    ok 509 - [508]93116596583419
+    ok 510 - [509]43971121231403
+    ok 511 - [510]65859941757
+    ok 512 - [511]96877135186377
+    ok 513 - [512]29521623284
+    ok 514 - [513]36813518801
+    ok 515 - [514]14797741201
+    ok 516 - [515]35913185234
+    ok 517 - [516]52741895338403
+    ok 518 - [517]75861858160
+    ok 519 - [518]75372874651
+    ok 520 - [519]88723458127
+    ok 521 - [520]88415375581
+    ok 522 - [521]72957927997952
+    ok 523 - [522]37246633154
+    ok 524 - [523]53933621229507
+    ok 525 - [524]89135768304
+    ok 526 - [525]96735336636475
+    ok 527 - [526]29777383479
+    ok 528 - [527]76559629424418
+    ok 529 - [528]81746597148613
+    ok 530 - [529]42459624445407
+    ok 531 - [530]74311217264300
+    ok 532 - [531]52718711443271
+    ok 533 - [532]36791957118494
+    ok 534 - [533]92312381834
+    ok 535 - [534]38518674670
+    ok 536 - [535]92673665994
+    ok 537 - [536]69759615843450
+    ok 538 - [537]93396985545780
+    ok 539 - [538]34628142459708
+    ok 540 - [539]32451493950
+    ok 541 - [540]21651671320
+    ok 542 - [541]32536236102
+    ok 543 - [542]41812576145
+    ok 544 - [543]43614318508
+    ok 545 - [544]57198185100
+    ok 546 - [545]11178492852718
+    ok 547 - [546]29166869838
+    ok 548 - [547]26437526353208
+    ok 549 - [548]19314225134503
+    ok 550 - [549]91231284293
+    ok 551 - [550]94917463670
+    ok 552 - [551]71577765109
+    ok 553 - [552]25926695236
+    ok 554 - [553]57857918321218
+    ok 555 - [554]16495233604
+    ok 556 - [555]97214366827
+    ok 557 - [556]85797776685130
+    ok 558 - [557]55912244156
+    ok 559 - [558]74357677643469
+    ok 560 - [559]84169948629
+    ok 561 - [560]16158798329187
+    ok 562 - [561]24942617677
+    ok 563 - [562]45349364967100
+    ok 564 - [563]15952182866809
+    ok 565 - [564]13412797316
+    ok 566 - [565]58433819607
+    ok 567 - [566]55991276307
+    ok 568 - [567]76286679375
+    ok 569 - [568]94878126548200
+    ok 570 - [569]18396877767345
+    ok 571 - [570]92628825226147
+    ok 572 - [571]79586532878337
+    ok 573 - [572]49199259748466
+    ok 574 - [573]65862216413
+    ok 575 - [574]97814455492700
+    ok 576 - [575]67993513464967
+    ok 577 - [576]18453495203
+    ok 578 - [577]53819259139
+    ok 579 - [578]82234486106
+    ok 580 - [579]74881627813
+    ok 581 - [580]84944532443672
+    ok 582 - [581]65636143532
+    ok 583 - [582]24326144530
+    ok 584 - [583]68593636557980
+    ok 585 - [584]18162652256
+    ok 586 - [585]88583462573405
+    ok 587 - [586]21187786780
+    ok 588 - [587]21882551672382
+    ok 589 - [588]79443775976830
+    ok 590 - [589]81371524904
+    ok 591 - [590]17754649441903
+    ok 592 - [591]71258293250
+    ok 593 - [592]12888875900
+    ok 594 - [593]87884423146
+    ok 595 - [594]29848834389
+    ok 596 - [595]94856243889681
+    ok 597 - [596]81256743637747
+    ok 598 - [597]72447358717
+    ok 599 - [598]79312938940
+    ok 600 - [599]94626916147
+    ok 601 - [600]68755368535129
+    ok 602 - [601]47441523257
+    ok 603 - [602]94188356757407
+    ok 604 - [603]72591612722
+    ok 605 - [604]42726164633
+    ok 606 - [605]94193179293787
+    ok 607 - [606]74944251875299
+    ok 608 - [607]62164697862667
+    ok 609 - [608]17873267225864
+    ok 610 - [609]57575758721905
+    ok 611 - [610]42918228982
+    ok 612 - [611]43889718981
+    ok 613 - [612]37514295551783
+    ok 614 - [613]72522366541990
+    ok 615 - [614]36326875102
+    ok 616 - [615]56647843336390
+    ok 617 - [616]18283944481772
+    ok 618 - [617]43351479965585
+    ok 619 - [618]67261316318
+    ok 620 - [619]19978316515
+    ok 621 - [620]58724385328
+    ok 622 - [621]54176713746298
+    ok 623 - [622]79574495324600
+    ok 624 - [623]11523675950
+    ok 625 - [624]61847966586
+    ok 626 - [625]94838911912
+    ok 627 - [626]29943833491
+    ok 628 - [627]53528197821724
+    ok 629 - [628]76363516412
+    ok 630 - [629]86274637273
+    ok 631 - [630]35511788104
+    ok 632 - [631]41952391849
+    ok 633 - [632]56966713570
+    ok 634 - [633]62527714650
+    ok 635 - [634]49478329839
+    ok 636 - [635]73281584669400
+    ok 637 - [636]36857615365
+    ok 638 - [637]32638531743900
+    ok 639 - [638]73467922708
+    ok 640 - [639]58855895699
+    ok 641 - [640]55481662396
+    ok 642 - [641]31193215404
+    ok 643 - [642]42441727279752
+    ok 644 - [643]25292486485
+    ok 645 - [644]57592518643
+    ok 646 - [645]47716167622118
+    ok 647 - [646]68632975134377
+    ok 648 - [647]86383243572728
+    ok 649 - [648]32612588676728
+    ok 650 - [649]36345839833
+    ok 651 - [650]96743521710
+    ok 652 - [651]36132933941529
+    ok 653 - [652]45767417130
+    ok 654 - [653]51973679469
+    ok 655 - [654]37797265244390
+    ok 656 - [655]28719824653
+    ok 657 - [656]35246542473889
+    ok 658 - [657]31887249532285
+    ok 659 - [658]32141914172709
+    ok 660 - [659]25461517706
+    ok 661 - [660]57975733165400
+    ok 662 - [661]58813568576674
+    ok 663 - [662]81884929325188
+    ok 664 - [663]14645663865748
+    ok 665 - [664]87317997391950
+    ok 666 - [665]68524945229801
+    ok 667 - [666]79779973710
+    ok 668 - [667]61231817622166
+    ok 669 - [668]15413639815722
+    ok 670 - [669]53537317603
+    ok 671 - [670]88286895258714
+    ok 672 - [671]65531677769896
+    ok 673 - [672]21999463200
+    ok 674 - [673]18425627767124
+    ok 675 - [674]46979833841109
+    ok 676 - [675]76416453134
+    ok 677 - [676]64958591800
+    ok 678 - [677]69969549939475
+    ok 679 - [678]11454547715
+    ok 680 - [679]76334982931
+    ok 681 - [680]25736159486671
+    ok 682 - [681]13435154566143
+    ok 683 - [682]32234435696396
+    ok 684 - [683]51957345725491
+    ok 685 - [684]72596749311583
+    ok 686 - [685]36998174994197
+    ok 687 - [686]49718759565
+    ok 688 - [687]46613817503
+    ok 689 - [688]71645965309
+    ok 690 - [689]66747432169
+    ok 691 - [690]59315126327
+    ok 692 - [691]29942988300
+    ok 693 - [692]14883299821
+    ok 694 - [693]44145513312
+    ok 695 - [694]66185671140
+    ok 696 - [695]85326263602
+    ok 697 - [696]96893619415783
+    ok 698 - [697]91782853352610
+    ok 699 - [698]69788277377573
+    ok 700 - [699]92313452933300
+    ok 701 - [700]62356811595199
+    ok 702 - [701]62777813848629
+    ok 703 - [702]41197733652991
+    ok 704 - [703]56299974747111
+    ok 705 - [704]37314542384
+    ok 706 - [705]86493297729
+    ok 707 - [706]63612667586500
+    ok 708 - [707]45479293435303
+    ok 709 - [708]35475668959566
+    ok 710 - [709]74816359117873
+    ok 711 - [710]31141335255224
+    ok 712 - [711]85181549857814
+    ok 713 - [712]32548567249
+    ok 714 - [713]72936539922472
+    ok 715 - [714]21849482458656
+    ok 716 - [715]34719228617660
+    ok 717 - [716]39282855724
+    ok 718 - [717]97582945476
+    ok 719 - [718]32721799681
+    ok 720 - [719]34533786721700
+    ok 721 - [720]78915927567
+    ok 722 - [721]82512127311
+    ok 723 - [722]19329229128247
+    ok 724 - [723]43698254318650
+    ok 725 - [724]22183384294803
+    ok 726 - [725]58955146183
+    ok 727 - [726]43181153661175
+    ok 728 - [727]91742563644180
+    ok 729 - [728]46321522967259
+    ok 730 - [729]41913355888
+    ok 731 - [730]23868223207
+    ok 732 - [731]31219735313183
+    ok 733 - [732]35624462795426
+    ok 734 - [733]69412987242593
+    ok 735 - [734]81769492462716
+    ok 736 - [735]76679878152
+    ok 737 - [736]73474332155
+    ok 738 - [737]64749438245500
+    ok 739 - [738]38319254701
+    ok 740 - [739]14412994151964
+    ok 741 - [740]17772935178257
+    ok 742 - [741]19249762388705
+    ok 743 - [742]81548823481903
+    ok 744 - [743]67146486496171
+    ok 745 - [744]84364334522424
+    ok 746 - [745]85917665800
+    ok 747 - [746]58989458226
+    ok 748 - [747]39666318415783
+    ok 749 - [748]17833223616915
+    ok 750 - [749]19475934584851
+    ok 751 - [750]55122827605
+    ok 752 - [751]63712812752
+    ok 753 - [752]65548231588
+    ok 754 - [753]92141238455
+    ok 755 - [754]18852365737
+    ok 756 - [755]95334914340
+    ok 757 - [756]78837797109
+    ok 758 - [757]68471554678166
+    ok 759 - [758]94435792617500
+    ok 760 - [759]11664631500
+    ok 761 - [760]32857797162975
+    ok 762 - [761]79846378645455
+    ok 763 - [762]47975286725830
+    ok 764 - [763]25241855547681
+    ok 765 - [764]94215548587519
+    ok 766 - [765]98346929536845
+    ok 767 - [766]68189854413951
+    ok 768 - [767]94539918567
+    ok 769 - [768]46161948471165
+    ok 770 - [769]83594661145606
+    ok 771 - [770]95566792728320
+    ok 772 - [771]22422798829
+    ok 773 - [772]64593776775
+    ok 774 - [773]59126433109
+    ok 775 - [774]59481819285815
+    ok 776 - [775]91773153676
+    ok 777 - [776]71497789842
+    ok 778 - [777]82284237412218
+    ok 779 - [778]87447742228
+    ok 780 - [779]87526489559328
+    ok 781 - [780]88264867568487
+    ok 782 - [781]33611872925203
+    ok 783 - [782]49999113290
+    ok 784 - [783]53184825973
+    ok 785 - [784]78715555791724
+    ok 786 - [785]48662175880
+    ok 787 - [786]46579895254775
+    ok 788 - [787]14915942767
+    ok 789 - [788]44874678378
+    ok 790 - [789]16465575691600
+    ok 791 - [790]78281985828
+    ok 792 - [791]85365527449447
+    ok 793 - [792]17198664148
+    ok 794 - [793]76641221806
+    ok 795 - [794]54112848286434
+    ok 796 - [795]23136463781
+    ok 797 - [796]73579718800
+    ok 798 - [797]66378589581207
+    ok 799 - [798]32461997579902
+    ok 800 - [799]33754317830
+    ok 801 - [800]78658594572
+    ok 802 - [801]26461848320
+    ok 803 - [802]78119582608
+    ok 804 - [803]84483383329
+    ok 805 - [804]17232714485385
+    ok 806 - [805]96536649658554
+    ok 807 - [806]55963146455555
+    ok 808 - [807]66168568794
+    ok 809 - [808]21134521383
+    ok 810 - [809]64911325100
+    ok 811 - [810]47162646700
+    ok 812 - [811]44262798691274
+    ok 813 - [812]97976853968400
+    ok 814 - [813]24942951577
+    ok 815 - [814]21953567357301
+    ok 816 - [815]13836151123120
+    ok 817 - [816]12828959902
+    ok 818 - [817]87155864722
+    ok 819 - [818]93939726387746
+    ok 820 - [819]87414835294
+    ok 821 - [820]15434257553
+    ok 822 - [821]38617674622103
+    ok 823 - [822]52222664608
+    ok 824 - [823]53841532616
+    ok 825 - [824]82443158632679
+    ok 826 - [825]83147761223
+    ok 827 - [826]51628994591906
+    ok 828 - [827]49269383332270
+    ok 829 - [828]32945122367
+    ok 830 - [829]87662276675404
+    ok 831 - [830]59735976363975
+    ok 832 - [831]13419972512
+    ok 833 - [832]52531731458
+    ok 834 - [833]51389195554
+    ok 835 - [834]93848339758530
+    ok 836 - [835]63159799638
+    ok 837 - [836]29355832648
+    ok 838 - [837]78442248781
+    ok 839 - [838]84157944798
+    ok 840 - [839]79723865440
+    ok 841 - [840]92775487114
+    ok 842 - [841]58724562475
+    ok 843 - [842]63259215263
+    ok 844 - [843]31863811769249
+    ok 845 - [844]47518924222558
+    ok 846 - [845]67946639275150
+    ok 847 - [846]76795778128593
+    ok 848 - [847]11735933902
+    ok 849 - [848]94832951223633
+    ok 850 - [849]86533232282
+    ok 851 - [850]48163874201
+    ok 852 - [851]55698458785104
+    ok 853 - [852]74751329827440
+    ok 854 - [853]59874169284120
+    ok 855 - [854]84654811729
+    ok 856 - [855]77617669455825
+    ok 857 - [856]22399293932865
+    ok 858 - [857]15962489128
+    ok 859 - [858]53461692379
+    ok 860 - [859]67982346405
+    ok 861 - [860]25876883149432
+    ok 862 - [861]77589321526647
+    ok 863 - [862]19974881145143
+    ok 864 - [863]24762947300
+    ok 865 - [864]99921294768
+    ok 866 - [865]36558417884907
+    ok 867 - [866]73863776895343
+    ok 868 - [867]81225325277
+    ok 869 - [868]92844163610
+    ok 870 - [869]89249819781
+    ok 871 - [870]28919867844
+    ok 872 - [871]81623631171486
+    ok 873 - [872]48544625669105
+    ok 874 - [873]14699995799
+    ok 875 - [874]21837439558977
+    ok 876 - [875]95131366983207
+    ok 877 - [876]71743433251773
+    ok 878 - [877]42346112984
+    ok 879 - [878]79164878177551
+    ok 880 - [879]21148351212995
+    ok 881 - [880]72826854607
+    ok 882 - [881]52165548748
+    ok 883 - [882]51511339349
+    ok 884 - [883]51189317978256
+    ok 885 - [884]62619416450
+    ok 886 - [885]95199593361605
+    ok 887 - [886]13366811655833
+    ok 888 - [887]42756125481941
+    ok 889 - [888]96222222188
+    ok 890 - [889]83592367847171
+    ok 891 - [890]39873612556
+    ok 892 - [891]18798719394
+    ok 893 - [892]99128198318169
+    ok 894 - [893]83522628233
+    ok 895 - [894]29378877177299
+    ok 896 - [895]72179757961499
+    ok 897 - [896]75865895184
+    ok 898 - [897]32893339140
+    ok 899 - [898]96367562112700
+    ok 900 - [899]56687214772
+    ok 901 - [900]42697522436501
+    ok 902 - [901]59425248567295
+    ok 903 - [902]58899771182666
+    ok 904 - [903]17271595430
+    ok 905 - [904]25364629600
+    ok 906 - [905]27131489875
+    ok 907 - [906]82543315292
+    ok 908 - [907]31872923569
+    ok 909 - [908]24566542348190
+    ok 910 - [909]64557234909
+    ok 911 - [910]59338762912
+    ok 912 - [911]15576267150
+    ok 913 - [912]85211437154515
+    ok 914 - [913]41678458665744
+    ok 915 - [914]84372761678977
+    ok 916 - [915]53459219629
+    ok 917 - [916]16878548900
+    ok 918 - [917]62935186926500
+    ok 919 - [918]26767919188572
+    ok 920 - [919]91523273704
+    ok 921 - [920]37388572732
+    ok 922 - [921]15546839625890
+    ok 923 - [922]31337212213269
+    ok 924 - [923]72371681776
+    ok 925 - [924]98881824265841
+    ok 926 - [925]48616755997464
+    ok 927 - [926]61539277633702
+    ok 928 - [927]86719182544
+    ok 929 - [928]36412476471970
+    ok 930 - [929]38695518386688
+    ok 931 - [930]58795586776505
+    ok 932 - [931]36627284510
+    ok 933 - [932]62195743972
+    ok 934 - [933]72967322296
+    ok 935 - [934]58147695640
+    ok 936 - [935]77829185883
+    ok 937 - [936]65248331929831
+    ok 938 - [937]27233641422306
+    ok 939 - [938]69949298768
+    ok 940 - [939]34978289693747
+    ok 941 - [940]65963447119
+    ok 942 - [941]28337599839
+    ok 943 - [942]13235631888752
+    ok 944 - [943]54929393112705
+    ok 945 - [944]73593895252678
+    ok 946 - [945]18385749560
+    ok 947 - [946]68331947770
+    ok 948 - [947]51735678463846
+    ok 949 - [948]13498387723
+    ok 950 - [949]27565933859272
+    ok 951 - [950]35681843434347
+    ok 952 - [951]55116594835693
+    ok 953 - [952]93335853629926
+    ok 954 - [953]88969458107
+    ok 955 - [954]66492545487100
+    ok 956 - [955]31562489674
+    ok 957 - [956]36152717753110
+    ok 958 - [957]62124235535410
+    ok 959 - [958]82796816800
+    ok 960 - [959]68183953840
+    ok 961 - [960]37536965768400
+    ok 962 - [961]29737929563664
+    ok 963 - [962]76364631752870
+    ok 964 - [963]15784958539704
+    ok 965 - [964]15453275689300
+    ok 966 - [965]17479998732
+    ok 967 - [966]41358133251971
+    ok 968 - [967]49966855257285
+    ok 969 - [968]91541393323701
+    ok 970 - [969]63789173100
+    ok 971 - [970]24669636804
+    ok 972 - [971]21924922868408
+    ok 973 - [972]99593479821
+    ok 974 - [973]92839213133510
+    ok 975 - [974]96836845463611
+    ok 976 - [975]18832372789355
+    ok 977 - [976]64942486756604
+    ok 978 - [977]49137778315
+    ok 979 - [978]57639856809
+    ok 980 - [979]55346561315
+    ok 981 - [980]77945432905
+    ok 982 - [981]66937357234797
+    ok 983 - [982]28262549634342
+    ok 984 - [983]71894657399775
+    ok 985 - [984]35573759949
+    ok 986 - [985]46573361695
+    ok 987 - [986]48823551346649
+    ok 988 - [987]61144541715519
+    ok 989 - [988]99445251202
+    ok 990 - [989]25996667845338
+    ok 991 - [990]93585488358
+    ok 992 - [991]42366146779
+    ok 993 - [992]29219673320
+    ok 994 - [993]46898816737404
+    ok 995 - [994]82475543990
+    ok 996 - [995]72536534588960
+    ok 997 - [996]71486646832
+    ok 998 - [997]88834929341746
+    ok 999 - [998]37484896763208
+    ok 1000 - [999]38663382367
+    1..1000
+ok 8 - getRandomCPForCNPJ: testa função getRandomCPForCNPJ # time=66.269ms
+
+# Subtest: getRandomBool: testa função getRandomBool
+    ok 1 - should be equal
+    1..1
+ok 9 - getRandomBool: testa função getRandomBool # time=0.745ms
+
+1..9

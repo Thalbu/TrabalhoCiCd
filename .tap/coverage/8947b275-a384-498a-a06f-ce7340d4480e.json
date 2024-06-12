@@ -1,0 +1,524 @@
+{
+  "result": [
+    {
+      "scriptId": "983",
+      "url": "file:///home/tainan/workspace/TrabalhoCiCd/src/index.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 111,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "984",
+      "url": "file:///home/tainan/workspace/TrabalhoCiCd/src/cpf-cnpj.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 2289,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "validarCpf",
+          "ranges": [
+            {
+              "startOffset": 15,
+              "endOffset": 404,
+              "count": 1000
+            },
+            {
+              "startOffset": 145,
+              "endOffset": 168,
+              "count": 0
+            },
+            {
+              "startOffset": 359,
+              "endOffset": 401,
+              "count": 537
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 111,
+              "endOffset": 142,
+              "count": 2123
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 253,
+              "endOffset": 307,
+              "count": 2000
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "validarCnpj",
+          "ranges": [
+            {
+              "startOffset": 440,
+              "endOffset": 683,
+              "count": 509
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "exports.validarCpfOuCnpj",
+          "ranges": [
+            {
+              "startOffset": 748,
+              "endOffset": 792,
+              "count": 1000
+            },
+            {
+              "startOffset": 773,
+              "endOffset": 792,
+              "count": 509
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "tornaCpfValido",
+          "ranges": [
+            {
+              "startOffset": 795,
+              "endOffset": 965,
+              "count": 486
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "tornaCnpjValido",
+          "ranges": [
+            {
+              "startOffset": 1009,
+              "endOffset": 1190,
+              "count": 514
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "mod11Cpf",
+          "ranges": [
+            {
+              "startOffset": 1253,
+              "endOffset": 1348,
+              "count": 2972
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1289,
+              "endOffset": 1333,
+              "count": 28234
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "mod11Cnpj",
+          "ranges": [
+            {
+              "startOffset": 1369,
+              "endOffset": 1618,
+              "count": 1537
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "zipWithMultiply",
+          "ranges": [
+            {
+              "startOffset": 1407,
+              "endOffset": 1436,
+              "count": 38425
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "obterDigitoVerificacaoCnpj",
+          "ranges": [
+            {
+              "startOffset": 1656,
+              "endOffset": 1689,
+              "count": 2046
+            },
+            {
+              "startOffset": 1674,
+              "endOffset": 1677,
+              "count": 408
+            },
+            {
+              "startOffset": 1678,
+              "endOffset": 1688,
+              "count": 1638
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "obterDigitoVerificacaoCpf",
+          "ranges": [
+            {
+              "startOffset": 1726,
+              "endOffset": 1757,
+              "count": 2972
+            },
+            {
+              "startOffset": 1747,
+              "endOffset": 1750,
+              "count": 299
+            },
+            {
+              "startOffset": 1751,
+              "endOffset": 1756,
+              "count": 2673
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "obterDigitosVerificacaoCnpj",
+          "ranges": [
+            {
+              "startOffset": 1796,
+              "endOffset": 1853,
+              "count": 509
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "obterDigitos",
+          "ranges": [
+            {
+              "startOffset": 1877,
+              "endOffset": 1911,
+              "count": 1509
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "sum",
+          "ranges": [
+            {
+              "startOffset": 1926,
+              "endOffset": 1970,
+              "count": 3074
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1950,
+              "endOffset": 1969,
+              "count": 35351
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "formatarCpfCnpj",
+          "ranges": [
+            {
+              "startOffset": 1973,
+              "endOffset": 2244,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        }
+      ]
+    },
+    {
+      "scriptId": "985",
+      "url": "file:///home/tainan/workspace/TrabalhoCiCd/src/rand.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 2597,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "digitoAleatorio",
+          "ranges": [
+            {
+              "startOffset": 331,
+              "endOffset": 409,
+              "count": 1000
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getAlphanumeric",
+          "ranges": [
+            {
+              "startOffset": 411,
+              "endOffset": 500,
+              "count": 50
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getEmail",
+          "ranges": [
+            {
+              "startOffset": 502,
+              "endOffset": 708,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        },
+        {
+          "functionName": "getRandomBool",
+          "ranges": [
+            {
+              "startOffset": 710,
+              "endOffset": 784,
+              "count": 1001
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getRandomCpfOrCnpj",
+          "ranges": [
+            {
+              "startOffset": 786,
+              "endOffset": 880,
+              "count": 1000
+            },
+            {
+              "startOffset": 843,
+              "endOffset": 859,
+              "count": 486
+            },
+            {
+              "startOffset": 860,
+              "endOffset": 877,
+              "count": 514
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getRandomFilledArray",
+          "ranges": [
+            {
+              "startOffset": 911,
+              "endOffset": 983,
+              "count": 1000
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 948,
+              "endOffset": 982,
+              "count": 12542
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getRandomCpf",
+          "ranges": [
+            {
+              "startOffset": 986,
+              "endOffset": 1072,
+              "count": 486
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getRandomCnpj",
+          "ranges": [
+            {
+              "startOffset": 1074,
+              "endOffset": 1162,
+              "count": 514
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getRandomItem",
+          "ranges": [
+            {
+              "startOffset": 1164,
+              "endOffset": 1277,
+              "count": 463
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getRandomName",
+          "ranges": [
+            {
+              "startOffset": 1279,
+              "endOffset": 1360,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        },
+        {
+          "functionName": "getRandomNumber",
+          "ranges": [
+            {
+              "startOffset": 1362,
+              "endOffset": 1711,
+              "count": 14607
+            },
+            {
+              "startOffset": 1478,
+              "endOffset": 1563,
+              "count": 12593
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getRandomPeriodo",
+          "ranges": [
+            {
+              "startOffset": 1713,
+              "endOffset": 1786,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        },
+        {
+          "functionName": "getRandomUf",
+          "ranges": [
+            {
+              "startOffset": 1788,
+              "endOffset": 1846,
+              "count": 271
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getRgNumber",
+          "ranges": [
+            {
+              "startOffset": 1848,
+              "endOffset": 1913,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getRandomString",
+          "ranges": [
+            {
+              "startOffset": 2147,
+              "endOffset": 2596,
+              "count": 50
+            },
+            {
+              "startOffset": 2305,
+              "endOffset": 2578,
+              "count": 188
+            },
+            {
+              "startOffset": 2397,
+              "endOffset": 2536,
+              "count": 100
+            },
+            {
+              "startOffset": 2536,
+              "endOffset": 2578,
+              "count": 88
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "986",
+      "url": "file:///home/tainan/workspace/TrabalhoCiCd/src/uf.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 314,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "exports.validaUf",
+          "ranges": [
+            {
+              "startOffset": 34,
+              "endOffset": 58,
+              "count": 271
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    }
+  ],
+  "timestamp": 24292.034795,
+  "source-map-cache": {}
+}
