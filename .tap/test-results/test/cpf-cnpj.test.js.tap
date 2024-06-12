@@ -32,7 +32,7 @@ TAP version 14
     ok 30 - [29]00896035247
     ok 31 - [30]12345678909
     1..31
-ok 1 - validarCpf: sucesso ao validar cpfs válidos # time=7.471ms
+ok 1 - validarCpf: sucesso ao validar cpfs válidos # time=18.548ms
 
 # Subtest: validarCpf: erro ao validar cpf com dígitos repetidos
     ok 1 - should be equal
@@ -45,7 +45,7 @@ ok 1 - validarCpf: sucesso ao validar cpfs válidos # time=7.471ms
     ok 8 - should be equal
     ok 9 - should be equal
     1..9
-ok 2 - validarCpf: erro ao validar cpf com dígitos repetidos # time=1.343ms
+ok 2 - validarCpf: erro ao validar cpf com dígitos repetidos # time=3.442ms
 
 # Subtest: validarCpf: erro ao validar cpfs inválidos
     ok 1 - should be equal
@@ -80,7 +80,7 @@ ok 2 - validarCpf: erro ao validar cpf com dígitos repetidos # time=1.343ms
     ok 30 - should be equal
     ok 31 - should be equal
     1..31
-ok 3 - validarCpf: erro ao validar cpfs inválidos # time=9.194ms
+ok 3 - validarCpf: erro ao validar cpfs inválidos # time=11.842ms
 
 # Subtest: validarCnpj: sucesso ao validar cnpjs válidos
     ok 1 - [0]45588167000153
@@ -134,7 +134,7 @@ ok 3 - validarCpf: erro ao validar cpfs inválidos # time=9.194ms
     ok 49 - [48]57003626000179
     ok 50 - [49]00000000000191
     1..50
-ok 4 - validarCnpj: sucesso ao validar cnpjs válidos # time=6.352ms
+ok 4 - validarCnpj: sucesso ao validar cnpjs válidos # time=13.266ms
 
 # Subtest: validarCnpj: erro ao validar cnpjs inválidos
     ok 1 - should be equal
@@ -188,51 +188,51 @@ ok 4 - validarCnpj: sucesso ao validar cnpjs válidos # time=6.352ms
     ok 49 - should be equal
     ok 50 - should be equal
     1..50
-ok 5 - validarCnpj: erro ao validar cnpjs inválidos # time=7.147ms
+ok 5 - validarCnpj: erro ao validar cnpjs inválidos # time=12.439ms
 
 # Subtest: validarCpf: erro ao passar um cpf com menos de 11 digitos
     ok 1 - should be equal
     1..1
-ok 6 - validarCpf: erro ao passar um cpf com menos de 11 digitos # time=0.761ms
+ok 6 - validarCpf: erro ao passar um cpf com menos de 11 digitos # time=1.026ms
 
 # Subtest: tornaCpfValido: verifica se o cpf retornado possui 11 digitos
     ok 1 - should be equal
     1..1
-ok 7 - tornaCpfValido: verifica se o cpf retornado possui 11 digitos # time=1.856ms
+ok 7 - tornaCpfValido: verifica se o cpf retornado possui 11 digitos # time=1.442ms
 
 # Subtest: tornaCnpjValido: o cnpj retornado deve ter 14 digitos
     ok 1 - should be equal
     1..1
-ok 8 - tornaCnpjValido: o cnpj retornado deve ter 14 digitos # time=1.093ms
+ok 8 - tornaCnpjValido: o cnpj retornado deve ter 14 digitos # time=0.741ms
 
 # Subtest: validarCpfCnpj: o cpf retornado deve ser válido
     ok 1 - should be equal
     1..1
-ok 9 - validarCpfCnpj: o cpf retornado deve ser válido # time=1.656ms
+ok 9 - validarCpfCnpj: o cpf retornado deve ser válido # time=1.128ms
 
 # Subtest: validarCpfCnpj: o retorno da função deve ser falso, pois é uma string aleatória
     ok 1 - should be equal
     1..1
-ok 10 - validarCpfCnpj: o retorno da função deve ser falso, pois é uma string aleatória # time=2.795ms
+ok 10 - validarCpfCnpj: o retorno da função deve ser falso, pois é uma string aleatória # time=1.4ms
 
 # Subtest: validarCpf: o penultimo digito deve ser inválido, portanto cpf inválido
     ok 1 - should be equal
     1..1
-ok 11 - validarCpf: o penultimo digito deve ser inválido, portanto cpf inválido # time=1.05ms
+ok 11 - validarCpf: o penultimo digito deve ser inválido, portanto cpf inválido # time=0.829ms
 
 # Subtest: validarCpf: o ultimo digito deve ser inválido, portanto cnpj inválido
     ok 1 - should be equal
     1..1
-ok 12 - validarCpf: o ultimo digito deve ser inválido, portanto cnpj inválido # time=1.016ms
+ok 12 - validarCpf: o ultimo digito deve ser inválido, portanto cnpj inválido # time=1.985ms
 
 # Subtest: formatarCpfCnpj: formata cpf para o padrão NNN.NNN.NNN-NN utilizado no boleto
     ok 1 - should be equivalent
     1..1
-ok 13 - formatarCpfCnpj: formata cpf para o padrão NNN.NNN.NNN-NN utilizado no boleto # time=3.64ms
+ok 13 - formatarCpfCnpj: formata cpf para o padrão NNN.NNN.NNN-NN utilizado no boleto # time=3.648ms
 
 # Subtest: formatarCpfCnpj: formata cnpj para o padrão NN.NNN.NNN/NNNN-NN utilizado no boleto
     ok 1 - should be equivalent
     1..1
-ok 14 - formatarCpfCnpj: formata cnpj para o padrão NN.NNN.NNN/NNNN-NN utilizado no boleto # time=1.128ms
+ok 14 - formatarCpfCnpj: formata cnpj para o padrão NN.NNN.NNN/NNNN-NN utilizado no boleto # time=1.057ms
 
 1..14

@@ -6,15 +6,12 @@ const uf = require("./uf");
 module.exports = {
   digitoAleatorio,
   getAlphanumeric,
-  getEmail,
   getRandomBool,
   getRandomCpf,
   getRandomCpfOrCnpj,
   getRandomCnpj,
   getRandomItem,
-  getRandomName,
   getRandomNumber,
-  getRandomPeriodo,
   getRandomUf,
   getRgNumber,
 };
@@ -25,12 +22,6 @@ function digitoAleatorio() {
 
 function getAlphanumeric(min, max) {
   return getRandomString(min, max, alphanumerics);
-}
-
-function getEmail(maxSize) {
-  const intHalf = ((maxSize - "@.com".length) / 2) >> 0;
-
-  return `${getRandomString(1, intHalf, alphanumericsLower)}@${getRandomString(1, intHalf, alphanumericsLower)}.com`;
 }
 
 function getRandomBool() {
@@ -56,10 +47,6 @@ function getRandomItem(arrayLike) {
   return arrayLike[getRandomNumber({ min: 0, max: arrayLike.length - 1 })];
 }
 
-function getRandomName(min, max) {
-  return getRandomString(min, max, letters);
-}
-
 function getRandomNumber({ min, max, size = undefined }) {
   let minValue = min;
   let maxValue = max;
@@ -75,10 +62,6 @@ function getRandomNumber({ min, max, size = undefined }) {
   return Math.floor(Math.random() * (maxValue - minValue + 1)) + minValue;
 }
 
-function getRandomPeriodo() {
-  return getRandomDateStr().substr(0, 7);
-}
-
 function getRandomUf() {
   return getRandomItem(uf.ufs);
 }
@@ -86,9 +69,6 @@ function getRandomUf() {
 function getRgNumber() {
   return getRandomNumber({ size: 9 });
 }
-
-const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz";
-const alphanumericsLower = "abcdefghijklmnopqrstuvwxyz1234567890";
 
 const alphanumerics =
   "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
